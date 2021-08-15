@@ -9,7 +9,7 @@ ehthumbs.db
 Thumbs.db
 
 # Environments
-.env
+
 venv/
 
 
