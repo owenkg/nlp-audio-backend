@@ -405,7 +405,7 @@
         }
       }
     },
-    "/topics": {
+    "/search/topics": {
       "get": {
         "tags": [
           "topics"
