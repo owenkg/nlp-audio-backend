@@ -1,4 +1,2 @@
-init: pip install -r requirements.txt && python3 manage.py db init && python3 manage.py db migrate && python3 manage.py db upgrade
-upgrade: pip install -r requirements.txt && python3 manage.py db upgrade
-create_defaults: python manage.py create_defaults
+init: pip install -r requirements.txt && python manage.py db init && python manage.py db migrate && python manage.py db upgrade
 web: gunicorn wsgi:app
