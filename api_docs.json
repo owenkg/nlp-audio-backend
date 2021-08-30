@@ -339,7 +339,7 @@
         }
       }
     },
-    "/topics": {
+    "/search/topics": {
       "get": {
         "tags": ["topics"],
         "summary": "returns all topics",
