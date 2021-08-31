@@ -55,7 +55,7 @@ class Production(Base):
     """ production config """
 
     DEBUG = False
-    SQLALCHEMY_DATABASE_URI = "postgresql://xslidhaviysqfdfl:2:Ph5p4-ZC8?B%o!Yj8(Bo#YBn:Jrx[[@102.134.147.233/lulrmxynlluintxuiiuibilv"
+    SQLALCHEMY_DATABASE_URI = "postgresql://xslidhaviysqfdfl:nlpaudioP@ss1234@102.134.147.233/lulrmxynlluintxuiiuibilv"
 
 
 
