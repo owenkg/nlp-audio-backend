@@ -1,7 +1,7 @@
 from server import create_app
 
-#test_app = create_app('testing')
-app = create_app('production')
+#test_app = create_app('production')
+app = create_app('testing')
 
 if __name__ == '__main__':                            
     app.run()
