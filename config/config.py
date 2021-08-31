@@ -49,14 +49,15 @@ class Testing(Base):
     DEBUG = True
     # use a separate db
     # SQLALCHEMY_DATABASE_URI = "postgresql:///mobile_shop_test_db"
-    SQLALCHEMY_DATABASE_URI = os.getenv("DATABASE_TEST_URI")
+    SQLALCHEMY_DATABASE_URI = "postgres://lxprvvwoirrsnk:6c91156fd6ff7345f2915bb801759bbeacb67d083746577893fcad9a85c5b4ec@ec2-54-147-93-73.compute-1.amazonaws.com:5432/da06rcvmq0425n"
 
 
 class Production(Base):
     """ production config """
 
     DEBUG = False
-    SQLALCHEMY_DATABASE_URI = os.getenv("DATABASE_URI")
+    SQLALCHEMY_DATABASE_URI = "postgresql://xslidhaviysqfdfl:2:Ph5p4-ZC8?B%o!Yj8(Bo#YBn:Jrx[[@102.134.147.233/lulrmxynlluintxuiiuibilv"
+
 
 
 app_config = {"development": Development,
