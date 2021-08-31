@@ -41,7 +41,6 @@ class Development(Base):
     #}
 
 
-
 class Testing(Base):
     """ test environment config """
 
