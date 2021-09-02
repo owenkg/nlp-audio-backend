@@ -48,7 +48,7 @@ class Testing(Base):
     DEBUG = True
     # use a separate db
     # SQLALCHEMY_DATABASE_URI = "postgresql:///mobile_shop_test_db"
-    SQLALCHEMY_DATABASE_URI = "postgres://lxprvvwoirrsnk:6c91156fd6ff7345f2915bb801759bbeacb67d083746577893fcad9a85c5b4ec@ec2-54-147-93-73.compute-1.amazonaws.com:5432/da06rcvmq0425n"
+    SQLALCHEMY_DATABASE_URI = "postgres://qzrmjbleeibthn:0c8aa4a5f3ba1e3c323efd701f7e2451a9fd110ea89634a309032fee65a0d79f@ec2-52-7-159-155.compute-1.amazonaws.com:5432/d3ppf6nbkq97tq"
 
 
 class Production(Base):

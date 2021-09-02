@@ -268,4 +268,4 @@ class TopicSearchView(Resource):
             # update list after removing duplicate audios
             all_data["Audios"] = unique_audio
 
-            return dict(status='success', data=dict(all_data)), 200
+            return dict(status='success', data=all_data), 200
