@@ -1,0 +1,138 @@
+{
+  "transcripts": [
+    {
+      "confidence": -248.74378967285156,
+      "date": "2021-06-21",
+      "time": "20.00",
+      "filename": "bd_95_5-2021-06-21_T20.00.01.mp3306.wav",
+      "radio_station": "bd_95_5",
+      "words": [
+        {
+          "word": "nyonnyola",
+          "start_time": 0.1,
+          "duration": 0.54
+        },
+        {
+          "word": "tuli",
+          "start_time": 0.68,
+          "duration": 0.16
+        },
+        {
+          "word": "mu",
+          "start_time": 0.86,
+          "duration": 0.08
+        },
+        {
+          "word": "ebadde",
+          "start_time": 1.14,
+          "duration": 0.48
+        },
+        {
+          "word": "eyongerayo",
+          "start_time": 2.16,
+          "duration": 1.04
+        },
+        {
+          "word": "kay",
+          "start_time": 3.42,
+          "duration": 0.24
+        },
+        {
+          "word": "kaakati",
+          "start_time": 3.74,
+          "duration": 0.3
+        },
+        {
+          "word": "bano",
+          "start_time": 4.08,
+          "duration": 0.12
+        },
+        {
+          "word": "uganda",
+          "start_time": 4.28,
+          "duration": 0.48
+        },
+        {
+          "word": "omanyi",
+          "start_time": 4.84,
+          "duration": 0.22
+        },
+        {
+          "word": "nti",
+          "start_time": 5.1,
+          "duration": 0.08
+        },
+        {
+          "word": "yali",
+          "start_time": 5.4,
+          "duration": 0.78
+        },
+        {
+          "word": "ku",
+          "start_time": 6.22,
+          "duration": 0.16
+        },
+        {
+          "word": "mugalo",
+          "start_time": 6.4,
+          "duration": 0.32
+        },
+        {
+          "word": "g'obulwadde",
+          "start_time": 6.76,
+          "duration": 0.34
+        },
+        {
+          "word": "bwa",
+          "start_time": 7.12,
+          "duration": 0.1
+        },
+        {
+          "word": "covid",
+          "start_time": 7.24,
+          "duration": 0.24
+        },
+        {
+          "word": "nineteen",
+          "start_time": 7.52,
+          "duration": 0.5
+        },
+        {
+          "word": "era",
+          "start_time": 8.06,
+          "duration": 0.12
+        },
+        {
+          "word": "obulwadde",
+          "start_time": 8.2,
+          "duration": 0.24
+        },
+        {
+          "word": "bukyagenda",
+          "start_time": 8.46,
+          "duration": 0.32
+        },
+        {
+          "word": "mu",
+          "start_time": 8.8,
+          "duration": 0.06
+        },
+        {
+          "word": "maaso",
+          "start_time": 8.88,
+          "duration": 0.16
+        },
+        {
+          "word": "ga",
+          "start_time": 9.08,
+          "duration": 0.06
+        },
+        {
+          "word": "okuzaala",
+          "start_time": 9.16,
+          "duration": 0.52
+        }
+      ]
+    }
+  ]
+}

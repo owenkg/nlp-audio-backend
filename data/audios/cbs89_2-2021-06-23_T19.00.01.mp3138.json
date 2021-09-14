@@ -1,0 +1,98 @@
+{
+  "transcripts": [
+    {
+      "confidence": -171.78350830078125,
+      "date": "2021-06-23",
+      "time": "19.00",
+      "filename": "cbs89_2-2021-06-23_T19.00.01.mp3138.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "yabadde",
+          "start_time": 0.16,
+          "duration": 0.3
+        },
+        {
+          "word": "bagamba",
+          "start_time": 0.5,
+          "duration": 0.28
+        },
+        {
+          "word": "ndowooza",
+          "start_time": 0.8,
+          "duration": 0.34
+        },
+        {
+          "word": "ono",
+          "start_time": 1.16,
+          "duration": 0.34
+        },
+        {
+          "word": "yasoma",
+          "start_time": 1.6,
+          "duration": 0.42
+        },
+        {
+          "word": "nnyo",
+          "start_time": 2.08,
+          "duration": 0.34
+        },
+        {
+          "word": "era",
+          "start_time": 2.62,
+          "duration": 0.12
+        },
+        {
+          "word": "abagezigezi",
+          "start_time": 2.8,
+          "duration": 0.9
+        },
+        {
+          "word": "era",
+          "start_time": 3.88,
+          "duration": 0.18
+        },
+        {
+          "word": "nga",
+          "start_time": 4.1,
+          "duration": 0.62
+        },
+        {
+          "word": "okutegeera",
+          "start_time": 4.8,
+          "duration": 0.34
+        },
+        {
+          "word": "kyentegeeza",
+          "start_time": 5.18,
+          "duration": 1.12
+        },
+        {
+          "word": "mbabuulira",
+          "start_time": 6.36,
+          "duration": 0.5
+        },
+        {
+          "word": "baganda",
+          "start_time": 6.9,
+          "duration": 0.42
+        },
+        {
+          "word": "bange",
+          "start_time": 7.36,
+          "duration": 1.66
+        },
+        {
+          "word": "emmanduso",
+          "start_time": 9.12,
+          "duration": 0.46
+        },
+        {
+          "word": "terimba",
+          "start_time": 9.62,
+          "duration": 0.36
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "transcripts": [
+    {
+      "confidence": -122.08821868896484,
+      "date": "2021-06-21",
+      "time": "12.00",
+      "filename": "bd_95_5-2021-06-21_T12.00.01.mp3020.wav",
+      "radio_station": "bd_95_5",
+      "words": [
+        {
+          "word": "awo",
+          "start_time": 0.14,
+          "duration": 0.1
+        },
+        {
+          "word": "okusobola",
+          "start_time": 0.26,
+          "duration": 0.38
+        },
+        {
+          "word": "okulaba",
+          "start_time": 0.66,
+          "duration": 0.28
+        },
+        {
+          "word": "nga",
+          "start_time": 0.96,
+          "duration": 0.1
+        },
+        {
+          "word": "babeerawo",
+          "start_time": 1.1,
+          "duration": 0.42
+        },
+        {
+          "word": "n'ekirwadde",
+          "start_time": 1.56,
+          "duration": 0.36
+        },
+        {
+          "word": "kya",
+          "start_time": 1.96,
+          "duration": 0.12
+        },
+        {
+          "word": "covid",
+          "start_time": 2.14,
+          "duration": 0.36
+        },
+        {
+          "word": "nineteen",
+          "start_time": 2.54,
+          "duration": 1.16
+        },
+        {
+          "word": "nga",
+          "start_time": 3.78,
+          "duration": 0.12
+        },
+        {
+          "word": "namaduuka",
+          "start_time": 3.94,
+          "duration": 0.7
+        },
+        {
+          "word": "saako",
+          "start_time": 4.72,
+          "duration": 0.3
+        },
+        {
+          "word": "emirimu",
+          "start_time": 5.04,
+          "duration": 0.28
+        },
+        {
+          "word": "gyabwe",
+          "start_time": 5.36,
+          "duration": 0.24
+        },
+        {
+          "word": "gy'obadde",
+          "start_time": 5.64,
+          "duration": 0.34
+        },
+        {
+          "word": "bakola",
+          "start_time": 6.02,
+          "duration": 0.5
+        },
+        {
+          "word": "giggaddwa",
+          "start_time": 6.6,
+          "duration": 1.16
+        },
+        {
+          "word": "abasinga",
+          "start_time": 7.92,
+          "duration": 0.74
+        },
+        {
+          "word": "bagenze",
+          "start_time": 8.78,
+          "duration": 1.02
+        },
+        {
+          "word": "ne",
+          "start_time": 9.84,
+          "duration": 0.04
+        }
+      ]
+    }
+  ]
+}

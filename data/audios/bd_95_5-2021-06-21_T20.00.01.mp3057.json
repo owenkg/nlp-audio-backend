@@ -1,0 +1,133 @@
+{
+  "transcripts": [
+    {
+      "confidence": -172.53878784179688,
+      "date": "2021-06-21",
+      "time": "20.00",
+      "filename": "bd_95_5-2021-06-21_T20.00.01.mp3057.wav",
+      "radio_station": "bd_95_5",
+      "words": [
+        {
+          "word": "covid",
+          "start_time": 0.08,
+          "duration": 0.24
+        },
+        {
+          "word": "nineteen",
+          "start_time": 0.38,
+          "duration": 0.34
+        },
+        {
+          "word": "atuukira",
+          "start_time": 0.86,
+          "duration": 0.68
+        },
+        {
+          "word": "mu",
+          "start_time": 1.66,
+          "duration": 0.04
+        },
+        {
+          "word": "natakola",
+          "start_time": 1.98,
+          "duration": 0.54
+        },
+        {
+          "word": "ki",
+          "start_time": 2.56,
+          "duration": 0.16
+        },
+        {
+          "word": "tatuula",
+          "start_time": 2.86,
+          "duration": 1.44
+        },
+        {
+          "word": "ate",
+          "start_time": 4.38,
+          "duration": 0.14
+        },
+        {
+          "word": "ne",
+          "start_time": 4.56,
+          "duration": 0.1
+        },
+        {
+          "word": "eza",
+          "start_time": 4.74,
+          "duration": 0.2
+        },
+        {
+          "word": "nti",
+          "start_time": 4.96,
+          "duration": 0.12
+        },
+        {
+          "word": "abamu",
+          "start_time": 5.12,
+          "duration": 0.52
+        },
+        {
+          "word": "ku",
+          "start_time": 5.68,
+          "duration": 0.08
+        },
+        {
+          "word": "bannabyabufuzi",
+          "start_time": 5.78,
+          "duration": 1.0
+        },
+        {
+          "word": "abagaana",
+          "start_time": 6.9,
+          "duration": 0.52
+        },
+        {
+          "word": "okugondera",
+          "start_time": 7.44,
+          "duration": 0.44
+        },
+        {
+          "word": "ebiragiro",
+          "start_time": 7.9,
+          "duration": 0.34
+        },
+        {
+          "word": "bya",
+          "start_time": 8.26,
+          "duration": 0.12
+        },
+        {
+          "word": "covid",
+          "start_time": 8.42,
+          "duration": 0.28
+        },
+        {
+          "word": "nineteen",
+          "start_time": 8.74,
+          "duration": 0.38
+        },
+        {
+          "word": "mu",
+          "start_time": 9.18,
+          "duration": 0.08
+        },
+        {
+          "word": "biseera",
+          "start_time": 9.28,
+          "duration": 0.32
+        },
+        {
+          "word": "bya",
+          "start_time": 9.64,
+          "duration": 0.14
+        },
+        {
+          "word": "kamu",
+          "start_time": 9.82,
+          "duration": 0.16
+        }
+      ]
+    }
+  ]
+}

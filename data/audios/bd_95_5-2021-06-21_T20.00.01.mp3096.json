@@ -1,0 +1,133 @@
+{
+  "transcripts": [
+    {
+      "confidence": -173.79408264160156,
+      "date": "2021-06-21",
+      "time": "20.00",
+      "filename": "bd_95_5-2021-06-21_T20.00.01.mp3096.wav",
+      "radio_station": "bd_95_5",
+      "words": [
+        {
+          "word": "plaza",
+          "start_time": 0.34,
+          "duration": 0.78
+        },
+        {
+          "word": "emabega",
+          "start_time": 1.28,
+          "duration": 0.36
+        },
+        {
+          "word": "wa",
+          "start_time": 1.68,
+          "duration": 0.1
+        },
+        {
+          "word": "budde",
+          "start_time": 1.8,
+          "duration": 0.22
+        },
+        {
+          "word": "plaza",
+          "start_time": 2.08,
+          "duration": 0.4
+        },
+        {
+          "word": "e",
+          "start_time": 2.78,
+          "duration": 0.24
+        },
+        {
+          "word": "bakedde",
+          "start_time": 3.42,
+          "duration": 0.46
+        },
+        {
+          "word": "mu",
+          "start_time": 3.92,
+          "duration": 0.08
+        },
+        {
+          "word": "maziga",
+          "start_time": 4.02,
+          "duration": 0.6
+        },
+        {
+          "word": "nakyo",
+          "start_time": 4.68,
+          "duration": 0.38
+        },
+        {
+          "word": "era",
+          "start_time": 5.16,
+          "duration": 0.16
+        },
+        {
+          "word": "kubanga",
+          "start_time": 5.36,
+          "duration": 0.3
+        },
+        {
+          "word": "mu",
+          "start_time": 5.7,
+          "duration": 0.1
+        },
+        {
+          "word": "naye",
+          "start_time": 5.9,
+          "duration": 0.68
+        },
+        {
+          "word": "abasirikale",
+          "start_time": 6.7,
+          "duration": 0.74
+        },
+        {
+          "word": "nga",
+          "start_time": 7.48,
+          "duration": 0.1
+        },
+        {
+          "word": "bagendera",
+          "start_time": 7.6,
+          "duration": 0.38
+        },
+        {
+          "word": "ku",
+          "start_time": 8.04,
+          "duration": 0.06
+        },
+        {
+          "word": "biragiro",
+          "start_time": 8.12,
+          "duration": 0.58
+        },
+        {
+          "word": "byo",
+          "start_time": 8.74,
+          "duration": 0.12
+        },
+        {
+          "word": "mubaka",
+          "start_time": 8.88,
+          "duration": 0.24
+        },
+        {
+          "word": "wa",
+          "start_time": 9.16,
+          "duration": 0.08
+        },
+        {
+          "word": "government",
+          "start_time": 9.26,
+          "duration": 0.38
+        },
+        {
+          "word": "atuula",
+          "start_time": 9.72,
+          "duration": 0.26
+        }
+      ]
+    }
+  ]
+}

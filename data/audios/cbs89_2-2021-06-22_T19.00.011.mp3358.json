@@ -1,0 +1,88 @@
+{
+  "transcripts": [
+    {
+      "confidence": -126.16069793701172,
+      "date": "2021-06-22",
+      "time": "19.00",
+      "filename": "cbs89_2-2021-06-22_T19.00.011.mp3358.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "osanze",
+          "start_time": 0.1,
+          "duration": 1.1
+        },
+        {
+          "word": "nga",
+          "start_time": 1.26,
+          "duration": 0.1
+        },
+        {
+          "word": "kirabwako",
+          "start_time": 1.48,
+          "duration": 1.24
+        },
+        {
+          "word": "ensangi",
+          "start_time": 2.98,
+          "duration": 0.46
+        },
+        {
+          "word": "zino",
+          "start_time": 3.48,
+          "duration": 0.7
+        },
+        {
+          "word": "nga",
+          "start_time": 4.28,
+          "duration": 0.1
+        },
+        {
+          "word": "abantu",
+          "start_time": 4.42,
+          "duration": 0.2
+        },
+        {
+          "word": "bakuba",
+          "start_time": 4.66,
+          "duration": 0.38
+        },
+        {
+          "word": "emiggo",
+          "start_time": 5.08,
+          "duration": 1.82
+        },
+        {
+          "word": "nti",
+          "start_time": 6.94,
+          "duration": 0.1
+        },
+        {
+          "word": "ne",
+          "start_time": 7.08,
+          "duration": 0.06
+        },
+        {
+          "word": "bagenda",
+          "start_time": 7.16,
+          "duration": 0.32
+        },
+        {
+          "word": "kubanga",
+          "start_time": 7.5,
+          "duration": 0.56
+        },
+        {
+          "word": "covid",
+          "start_time": 8.14,
+          "duration": 0.28
+        },
+        {
+          "word": "tannabatta",
+          "start_time": 8.48,
+          "duration": 0.72
+        }
+      ]
+    }
+  ]
+}

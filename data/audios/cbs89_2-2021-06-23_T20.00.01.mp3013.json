@@ -1,0 +1,118 @@
+{
+  "transcripts": [
+    {
+      "confidence": -237.41529846191406,
+      "date": "2021-06-23",
+      "time": "20.00",
+      "filename": "cbs89_2-2021-06-23_T20.00.01.mp3013.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "kirowoozebwa",
+          "start_time": 0.68,
+          "duration": 0.6
+        },
+        {
+          "word": "nti",
+          "start_time": 1.32,
+          "duration": 0.08
+        },
+        {
+          "word": "ge",
+          "start_time": 1.46,
+          "duration": 0.2
+        },
+        {
+          "word": "gokka",
+          "start_time": 1.68,
+          "duration": 0.4
+        },
+        {
+          "word": "gokka",
+          "start_time": 2.16,
+          "duration": 0.58
+        },
+        {
+          "word": "gavaako",
+          "start_time": 2.78,
+          "duration": 0.58
+        },
+        {
+          "word": "agavako",
+          "start_time": 3.4,
+          "duration": 0.48
+        },
+        {
+          "word": "kaakano",
+          "start_time": 3.94,
+          "duration": 0.84
+        },
+        {
+          "word": "kazibu",
+          "start_time": 4.82,
+          "duration": 0.26
+        },
+        {
+          "word": "nnyo",
+          "start_time": 5.1,
+          "duration": 0.14
+        },
+        {
+          "word": "e",
+          "start_time": 5.38,
+          "duration": 0.12
+        },
+        {
+          "word": "tekali",
+          "start_time": 5.52,
+          "duration": 0.24
+        },
+        {
+          "word": "nga",
+          "start_time": 5.78,
+          "duration": 0.12
+        },
+        {
+          "word": "siriimu",
+          "start_time": 5.94,
+          "duration": 1.78
+        },
+        {
+          "word": "malusu",
+          "start_time": 7.78,
+          "duration": 0.52
+        },
+        {
+          "word": "nti",
+          "start_time": 8.38,
+          "duration": 0.14
+        },
+        {
+          "word": "sirimu",
+          "start_time": 8.56,
+          "duration": 0.28
+        },
+        {
+          "word": "osobola",
+          "start_time": 8.88,
+          "duration": 0.22
+        },
+        {
+          "word": "okwewala",
+          "start_time": 9.12,
+          "duration": 0.42
+        },
+        {
+          "word": "n'ogamba",
+          "start_time": 9.58,
+          "duration": 0.28
+        },
+        {
+          "word": "nti",
+          "start_time": 9.88,
+          "duration": 0.04
+        }
+      ]
+    }
+  ]
+}

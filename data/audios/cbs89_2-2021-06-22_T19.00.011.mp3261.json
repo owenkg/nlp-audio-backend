@@ -1,0 +1,103 @@
+{
+  "transcripts": [
+    {
+      "confidence": -180.7356414794922,
+      "date": "2021-06-22",
+      "time": "19.00",
+      "filename": "cbs89_2-2021-06-22_T19.00.011.mp3261.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "mu",
+          "start_time": 0.64,
+          "duration": 0.14
+        },
+        {
+          "word": "kwagala",
+          "start_time": 0.8,
+          "duration": 0.44
+        },
+        {
+          "word": "kuba",
+          "start_time": 1.28,
+          "duration": 0.22
+        },
+        {
+          "word": "waliwo",
+          "start_time": 1.54,
+          "duration": 0.36
+        },
+        {
+          "word": "abalala",
+          "start_time": 1.94,
+          "duration": 0.38
+        },
+        {
+          "word": "abafa",
+          "start_time": 2.36,
+          "duration": 0.5
+        },
+        {
+          "word": "abali",
+          "start_time": 3.0,
+          "duration": 0.3
+        },
+        {
+          "word": "obubi",
+          "start_time": 3.32,
+          "duration": 0.74
+        },
+        {
+          "word": "naye",
+          "start_time": 4.5,
+          "duration": 0.24
+        },
+        {
+          "word": "ssente",
+          "start_time": 4.8,
+          "duration": 0.4
+        },
+        {
+          "word": "zo",
+          "start_time": 5.24,
+          "duration": 0.14
+        },
+        {
+          "word": "akola",
+          "start_time": 5.54,
+          "duration": 0.32
+        },
+        {
+          "word": "ki",
+          "start_time": 5.9,
+          "duration": 0.14
+        },
+        {
+          "word": "alirokola",
+          "start_time": 6.16,
+          "duration": 1.4
+        },
+        {
+          "word": "emmotoka",
+          "start_time": 7.68,
+          "duration": 0.46
+        },
+        {
+          "word": "za",
+          "start_time": 8.28,
+          "duration": 0.18
+        },
+        {
+          "word": "webaakoma",
+          "start_time": 8.48,
+          "duration": 0.86
+        },
+        {
+          "word": "ziti",
+          "start_time": 9.36,
+          "duration": 0.56
+        }
+      ]
+    }
+  ]
+}

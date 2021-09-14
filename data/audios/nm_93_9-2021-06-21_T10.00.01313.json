@@ -1,0 +1,123 @@
+{
+  "transcripts": [
+    {
+      "confidence": -162.64097595214844,
+      "date": "2021-06-21",
+      "time": "10.00",
+      "filename": "nm_93_9-2021-06-21_T10.00.01313.wav",
+      "radio_station": "nm_93_9",
+      "words": [
+        {
+          "word": "okugwako",
+          "start_time": 0.1,
+          "duration": 1.06
+        },
+        {
+          "word": "mu",
+          "start_time": 1.24,
+          "duration": 0.12
+        },
+        {
+          "word": "kiseera",
+          "start_time": 1.38,
+          "duration": 0.34
+        },
+        {
+          "word": "kino",
+          "start_time": 1.76,
+          "duration": 0.18
+        },
+        {
+          "word": "nga",
+          "start_time": 1.98,
+          "duration": 0.08
+        },
+        {
+          "word": "tuyingidde",
+          "start_time": 2.1,
+          "duration": 0.44
+        },
+        {
+          "word": "lockdown",
+          "start_time": 2.6,
+          "duration": 1.26
+        },
+        {
+          "word": "taata",
+          "start_time": 4.2,
+          "duration": 0.24
+        },
+        {
+          "word": "akyagenda",
+          "start_time": 4.56,
+          "duration": 0.5
+        },
+        {
+          "word": "ku",
+          "start_time": 5.1,
+          "duration": 0.1
+        },
+        {
+          "word": "mulimu",
+          "start_time": 5.22,
+          "duration": 0.34
+        },
+        {
+          "word": "mu",
+          "start_time": 5.6,
+          "duration": 0.1
+        },
+        {
+          "word": "mata",
+          "start_time": 5.74,
+          "duration": 0.24
+        },
+        {
+          "word": "kyagenda",
+          "start_time": 6.0,
+          "duration": 0.44
+        },
+        {
+          "word": "ku",
+          "start_time": 6.48,
+          "duration": 0.08
+        },
+        {
+          "word": "mulimu",
+          "start_time": 6.58,
+          "duration": 1.0
+        },
+        {
+          "word": "n'abaana",
+          "start_time": 7.98,
+          "duration": 0.4
+        },
+        {
+          "word": "be",
+          "start_time": 8.42,
+          "duration": 0.12
+        },
+        {
+          "word": "bali",
+          "start_time": 8.56,
+          "duration": 0.22
+        },
+        {
+          "word": "ewaka",
+          "start_time": 8.82,
+          "duration": 0.58
+        },
+        {
+          "word": "family",
+          "start_time": 9.44,
+          "duration": 0.32
+        },
+        {
+          "word": "zonna",
+          "start_time": 9.8,
+          "duration": 0.18
+        }
+      ]
+    }
+  ]
+}

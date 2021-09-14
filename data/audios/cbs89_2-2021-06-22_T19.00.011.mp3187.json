@@ -1,0 +1,113 @@
+{
+  "transcripts": [
+    {
+      "confidence": -187.12844848632812,
+      "date": "2021-06-22",
+      "time": "19.00",
+      "filename": "cbs89_2-2021-06-22_T19.00.011.mp3187.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "bambi",
+          "start_time": 0.04,
+          "duration": 0.6
+        },
+        {
+          "word": "okukakasa",
+          "start_time": 0.78,
+          "duration": 0.4
+        },
+        {
+          "word": "nti",
+          "start_time": 1.22,
+          "duration": 0.08
+        },
+        {
+          "word": "ddala",
+          "start_time": 1.32,
+          "duration": 0.18
+        },
+        {
+          "word": "governor",
+          "start_time": 1.56,
+          "duration": 1.12
+        },
+        {
+          "word": "oba",
+          "start_time": 2.76,
+          "duration": 0.14
+        },
+        {
+          "word": "twesobola",
+          "start_time": 2.92,
+          "duration": 0.9
+        },
+        {
+          "word": "omubaka",
+          "start_time": 3.88,
+          "duration": 0.3
+        },
+        {
+          "word": "mary",
+          "start_time": 4.22,
+          "duration": 0.26
+        },
+        {
+          "word": "begumisa",
+          "start_time": 4.5,
+          "duration": 1.78
+        },
+        {
+          "word": "enteekateeka",
+          "start_time": 7.04,
+          "duration": 0.64
+        },
+        {
+          "word": "ya",
+          "start_time": 7.7,
+          "duration": 0.12
+        },
+        {
+          "word": "government",
+          "start_time": 7.84,
+          "duration": 0.34
+        },
+        {
+          "word": "eya",
+          "start_time": 8.26,
+          "duration": 0.26
+        },
+        {
+          "word": "enkola",
+          "start_time": 8.66,
+          "duration": 0.22
+        },
+        {
+          "word": "eya",
+          "start_time": 8.92,
+          "duration": 0.1
+        },
+        {
+          "word": "mu",
+          "start_time": 9.04,
+          "duration": 0.1
+        },
+        {
+          "word": "bire",
+          "start_time": 9.18,
+          "duration": 0.22
+        },
+        {
+          "word": "money",
+          "start_time": 9.44,
+          "duration": 0.22
+        },
+        {
+          "word": "okuwa",
+          "start_time": 9.68,
+          "duration": 0.26
+        }
+      ]
+    }
+  ]
+}

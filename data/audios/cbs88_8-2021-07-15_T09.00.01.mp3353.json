@@ -1,0 +1,128 @@
+{
+  "transcripts": [
+    {
+      "confidence": -343.4957580566406,
+      "date": "2021-07-15",
+      "time": "09.00",
+      "filename": "cbs88_8-2021-07-15_T09.00.01.mp3353.wav",
+      "radio_station": "cbs88_8",
+      "words": [
+        {
+          "word": "kyawadde",
+          "start_time": 0.2,
+          "duration": 0.56
+        },
+        {
+          "word": "kya",
+          "start_time": 0.8,
+          "duration": 0.1
+        },
+        {
+          "word": "covid",
+          "start_time": 0.94,
+          "duration": 0.24
+        },
+        {
+          "word": "kkumi",
+          "start_time": 1.26,
+          "duration": 0.16
+        },
+        {
+          "word": "na",
+          "start_time": 1.44,
+          "duration": 0.08
+        },
+        {
+          "word": "mwenda",
+          "start_time": 1.54,
+          "duration": 0.48
+        },
+        {
+          "word": "mu",
+          "start_time": 2.12,
+          "duration": 0.08
+        },
+        {
+          "word": "abali",
+          "start_time": 2.22,
+          "duration": 0.16
+        },
+        {
+          "word": "mu",
+          "start_time": 2.4,
+          "duration": 0.06
+        },
+        {
+          "word": "wakiso",
+          "start_time": 2.5,
+          "duration": 0.3
+        },
+        {
+          "word": "district",
+          "start_time": 2.84,
+          "duration": 0.54
+        },
+        {
+          "word": "mugende",
+          "start_time": 3.46,
+          "duration": 0.3
+        },
+        {
+          "word": "mufune",
+          "start_time": 3.8,
+          "duration": 0.26
+        },
+        {
+          "word": "okugemebwa",
+          "start_time": 4.1,
+          "duration": 0.54
+        },
+        {
+          "word": "okuva",
+          "start_time": 4.7,
+          "duration": 0.2
+        },
+        {
+          "word": "mu",
+          "start_time": 4.94,
+          "duration": 0.06
+        },
+        {
+          "word": "geetaaga",
+          "start_time": 5.02,
+          "duration": 1.6
+        },
+        {
+          "word": "abakadde",
+          "start_time": 6.7,
+          "duration": 0.4
+        },
+        {
+          "word": "omuttanga",
+          "start_time": 7.12,
+          "duration": 0.84
+        },
+        {
+          "word": "municipali",
+          "start_time": 8.0,
+          "duration": 0.78
+        },
+        {
+          "word": "mugende",
+          "start_time": 8.86,
+          "duration": 0.28
+        },
+        {
+          "word": "ku",
+          "start_time": 9.18,
+          "duration": 0.1
+        },
+        {
+          "word": "agent",
+          "start_time": 9.4,
+          "duration": 0.56
+        }
+      ]
+    }
+  ]
+}

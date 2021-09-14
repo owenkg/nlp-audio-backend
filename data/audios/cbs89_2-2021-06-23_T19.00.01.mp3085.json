@@ -1,0 +1,78 @@
+{
+  "transcripts": [
+    {
+      "confidence": -244.20864868164062,
+      "date": "2021-06-23",
+      "time": "19.00",
+      "filename": "cbs89_2-2021-06-23_T19.00.01.mp3085.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "alooni",
+          "start_time": 0.12,
+          "duration": 1.0
+        },
+        {
+          "word": "ne",
+          "start_time": 1.14,
+          "duration": 0.12
+        },
+        {
+          "word": "etudde",
+          "start_time": 1.38,
+          "duration": 0.6
+        },
+        {
+          "word": "otaddemu",
+          "start_time": 2.16,
+          "duration": 0.36
+        },
+        {
+          "word": "ate",
+          "start_time": 2.76,
+          "duration": 0.5
+        },
+        {
+          "word": "emisansinga",
+          "start_time": 3.44,
+          "duration": 1.34
+        },
+        {
+          "word": "nasooka",
+          "start_time": 6.16,
+          "duration": 0.82
+        },
+        {
+          "word": "awo",
+          "start_time": 7.26,
+          "duration": 0.22
+        },
+        {
+          "word": "embeera",
+          "start_time": 7.66,
+          "duration": 0.3
+        },
+        {
+          "word": "eyo",
+          "start_time": 8.06,
+          "duration": 0.16
+        },
+        {
+          "word": "sanitizer",
+          "start_time": 8.26,
+          "duration": 0.56
+        },
+        {
+          "word": "wali",
+          "start_time": 8.86,
+          "duration": 0.24
+        },
+        {
+          "word": "tewali",
+          "start_time": 9.14,
+          "duration": 0.3
+        }
+      ]
+    }
+  ]
+}

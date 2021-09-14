@@ -1,0 +1,48 @@
+{
+  "transcripts": [
+    {
+      "confidence": -80.57574462890625,
+      "date": "2021-06-21",
+      "time": "11.00",
+      "filename": "nm_93_9-2021-06-21_T11.00.01 (5).mp3159.wav",
+      "radio_station": "nm_93_9",
+      "words": [
+        {
+          "word": "ate",
+          "start_time": 0.18,
+          "duration": 0.1
+        },
+        {
+          "word": "bugenda",
+          "start_time": 0.32,
+          "duration": 0.22
+        },
+        {
+          "word": "kubeerawo",
+          "start_time": 0.58,
+          "duration": 0.76
+        },
+        {
+          "word": "tebakubwa",
+          "start_time": 1.4,
+          "duration": 0.68
+        },
+        {
+          "word": "ntya",
+          "start_time": 2.14,
+          "duration": 1.1
+        },
+        {
+          "word": "naye",
+          "start_time": 3.34,
+          "duration": 0.22
+        },
+        {
+          "word": "na",
+          "start_time": 3.88,
+          "duration": 0.06
+        }
+      ]
+    }
+  ]
+}

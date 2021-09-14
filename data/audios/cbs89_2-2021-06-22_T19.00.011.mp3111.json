@@ -1,0 +1,98 @@
+{
+  "transcripts": [
+    {
+      "confidence": -231.79441833496094,
+      "date": "2021-06-22",
+      "time": "19.00",
+      "filename": "cbs89_2-2021-06-22_T19.00.011.mp3111.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "abalwadde",
+          "start_time": 0.3,
+          "duration": 0.32
+        },
+        {
+          "word": "mu",
+          "start_time": 0.66,
+          "duration": 0.2
+        },
+        {
+          "word": "abalwadde",
+          "start_time": 1.86,
+          "duration": 0.3
+        },
+        {
+          "word": "mu",
+          "start_time": 2.18,
+          "duration": 0.06
+        },
+        {
+          "word": "batwala",
+          "start_time": 2.26,
+          "duration": 0.32
+        },
+        {
+          "word": "wakati",
+          "start_time": 2.6,
+          "duration": 0.34
+        },
+        {
+          "word": "mu",
+          "start_time": 2.98,
+          "duration": 0.04
+        },
+        {
+          "word": "abatalina",
+          "start_time": 3.08,
+          "duration": 0.42
+        },
+        {
+          "word": "ddwaliro",
+          "start_time": 3.52,
+          "duration": 1.0
+        },
+        {
+          "word": "abalwadde",
+          "start_time": 5.02,
+          "duration": 0.44
+        },
+        {
+          "word": "ne",
+          "start_time": 5.5,
+          "duration": 0.16
+        },
+        {
+          "word": "nkyawa",
+          "start_time": 5.68,
+          "duration": 0.3
+        },
+        {
+          "word": "yanjogerera",
+          "start_time": 6.04,
+          "duration": 0.64
+        },
+        {
+          "word": "nnyo",
+          "start_time": 6.72,
+          "duration": 0.18
+        },
+        {
+          "word": "n'omulala",
+          "start_time": 6.92,
+          "duration": 0.62
+        },
+        {
+          "word": "lisemberera",
+          "start_time": 7.58,
+          "duration": 1.88
+        },
+        {
+          "word": "ne",
+          "start_time": 9.66,
+          "duration": 0.06
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "transcripts": [
+    {
+      "confidence": -269.7154235839844,
+      "date": "2021-06-21",
+      "time": "11.00",
+      "filename": "nm_93_9-2021-06-21_T11.00.0.wav",
+      "radio_station": "nm_93_9",
+      "words": [
+        {
+          "word": "abaafudde",
+          "start_time": 0.08,
+          "duration": 0.5
+        },
+        {
+          "word": "ku",
+          "start_time": 0.64,
+          "duration": 0.14
+        },
+        {
+          "word": "naku",
+          "start_time": 0.82,
+          "duration": 1.32
+        },
+        {
+          "word": "naye",
+          "start_time": 2.2,
+          "duration": 0.14
+        },
+        {
+          "word": "tujja",
+          "start_time": 2.38,
+          "duration": 0.32
+        },
+        {
+          "word": "kuba",
+          "start_time": 2.74,
+          "duration": 0.16
+        },
+        {
+          "word": "nga",
+          "start_time": 2.92,
+          "duration": 0.14
+        },
+        {
+          "word": "sirimu",
+          "start_time": 3.1,
+          "duration": 1.4
+        },
+        {
+          "word": "ekyaama",
+          "start_time": 4.64,
+          "duration": 1.92
+        },
+        {
+          "word": "nti",
+          "start_time": 6.64,
+          "duration": 0.14
+        },
+        {
+          "word": "covid",
+          "start_time": 6.84,
+          "duration": 0.4
+        },
+        {
+          "word": "tusobole",
+          "start_time": 7.28,
+          "duration": 0.4
+        },
+        {
+          "word": "eza",
+          "start_time": 8.48,
+          "duration": 0.14
+        },
+        {
+          "word": "okulaba",
+          "start_time": 8.64,
+          "duration": 0.26
+        },
+        {
+          "word": "nemuteeka",
+          "start_time": 8.92,
+          "duration": 0.98
+        }
+      ]
+    }
+  ]
+}

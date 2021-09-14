@@ -1,0 +1,98 @@
+{
+  "transcripts": [
+    {
+      "confidence": -204.84188842773438,
+      "date": "2021-06-22",
+      "time": "19.00",
+      "filename": "cbs89_2-2021-06-22_T19.00.011.mp3122.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "nga",
+          "start_time": 0.06,
+          "duration": 0.08
+        },
+        {
+          "word": "lwe",
+          "start_time": 0.16,
+          "duration": 0.16
+        },
+        {
+          "word": "bayisizza",
+          "start_time": 0.34,
+          "duration": 0.44
+        },
+        {
+          "word": "kutabi",
+          "start_time": 0.82,
+          "duration": 0.3
+        },
+        {
+          "word": "bukomansimbi",
+          "start_time": 1.14,
+          "duration": 2.32
+        },
+        {
+          "word": "abe",
+          "start_time": 3.58,
+          "duration": 0.2
+        },
+        {
+          "word": "bukomansimbi",
+          "start_time": 3.8,
+          "duration": 0.92
+        },
+        {
+          "word": "tewaawo",
+          "start_time": 4.76,
+          "duration": 0.38
+        },
+        {
+          "word": "kano",
+          "start_time": 5.2,
+          "duration": 0.38
+        },
+        {
+          "word": "na",
+          "start_time": 5.62,
+          "duration": 0.12
+        },
+        {
+          "word": "bitono",
+          "start_time": 5.76,
+          "duration": 0.46
+        },
+        {
+          "word": "birala",
+          "start_time": 6.26,
+          "duration": 0.36
+        },
+        {
+          "word": "nnyo",
+          "start_time": 6.68,
+          "duration": 0.7
+        },
+        {
+          "word": "omuggalo",
+          "start_time": 7.52,
+          "duration": 0.42
+        },
+        {
+          "word": "gutuyigiriza",
+          "start_time": 7.98,
+          "duration": 0.92
+        },
+        {
+          "word": "nnyo",
+          "start_time": 9.06,
+          "duration": 0.36
+        },
+        {
+          "word": "nnyo",
+          "start_time": 9.62,
+          "duration": 0.36
+        }
+      ]
+    }
+  ]
+}

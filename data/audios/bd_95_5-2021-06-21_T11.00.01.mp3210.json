@@ -1,0 +1,118 @@
+{
+  "transcripts": [
+    {
+      "confidence": -141.93023681640625,
+      "date": "2021-06-21",
+      "time": "11.00",
+      "filename": "bd_95_5-2021-06-21_T11.00.01.mp3210.wav",
+      "radio_station": "bd_95_5",
+      "words": [
+        {
+          "word": "ndi",
+          "start_time": 0.06,
+          "duration": 0.12
+        },
+        {
+          "word": "nineteen",
+          "start_time": 0.22,
+          "duration": 0.62
+        },
+        {
+          "word": "ddukirawo",
+          "start_time": 0.96,
+          "duration": 0.5
+        },
+        {
+          "word": "mu",
+          "start_time": 1.5,
+          "duration": 0.12
+        },
+        {
+          "word": "ddwaliro",
+          "start_time": 1.66,
+          "duration": 0.66
+        },
+        {
+          "word": "nga",
+          "start_time": 2.5,
+          "duration": 0.14
+        },
+        {
+          "word": "olabye",
+          "start_time": 2.66,
+          "duration": 0.32
+        },
+        {
+          "word": "nti",
+          "start_time": 3.04,
+          "duration": 0.14
+        },
+        {
+          "word": "olina",
+          "start_time": 3.26,
+          "duration": 0.28
+        },
+        {
+          "word": "obubonero",
+          "start_time": 3.58,
+          "duration": 0.64
+        },
+        {
+          "word": "ekya",
+          "start_time": 4.38,
+          "duration": 0.22
+        },
+        {
+          "word": "covid",
+          "start_time": 4.62,
+          "duration": 0.42
+        },
+        {
+          "word": "nineteen",
+          "start_time": 5.08,
+          "duration": 0.74
+        },
+        {
+          "word": "kijja",
+          "start_time": 5.9,
+          "duration": 0.36
+        },
+        {
+          "word": "kuggwa",
+          "start_time": 6.3,
+          "duration": 0.54
+        },
+        {
+          "word": "nga",
+          "start_time": 7.08,
+          "duration": 0.12
+        },
+        {
+          "word": "twewala",
+          "start_time": 7.24,
+          "duration": 0.36
+        },
+        {
+          "word": "enkungaana",
+          "start_time": 7.64,
+          "duration": 0.54
+        },
+        {
+          "word": "z'abantu",
+          "start_time": 8.22,
+          "duration": 0.44
+        },
+        {
+          "word": "abangi",
+          "start_time": 8.78,
+          "duration": 0.54
+        },
+        {
+          "word": "okwewaana",
+          "start_time": 9.48,
+          "duration": 0.5
+        }
+      ]
+    }
+  ]
+}

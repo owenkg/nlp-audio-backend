@@ -1,0 +1,98 @@
+{
+  "transcripts": [
+    {
+      "confidence": -204.0155792236328,
+      "date": "2021-06-21",
+      "time": "20.00",
+      "filename": "bd_95_5-2021-06-21_T20.00.01.mp3310.wav",
+      "radio_station": "bd_95_5",
+      "words": [
+        {
+          "word": "ne",
+          "start_time": 0.04,
+          "duration": 0.08
+        },
+        {
+          "word": "ku",
+          "start_time": 0.14,
+          "duration": 0.06
+        },
+        {
+          "word": "mutala",
+          "start_time": 0.24,
+          "duration": 0.6
+        },
+        {
+          "word": "kabira",
+          "start_time": 0.9,
+          "duration": 1.02
+        },
+        {
+          "word": "mu",
+          "start_time": 2.02,
+          "duration": 0.1
+        },
+        {
+          "word": "maka",
+          "start_time": 2.14,
+          "duration": 0.28
+        },
+        {
+          "word": "g'omugenzi",
+          "start_time": 2.46,
+          "duration": 0.56
+        },
+        {
+          "word": "haji",
+          "start_time": 3.22,
+          "duration": 0.26
+        },
+        {
+          "word": "safe",
+          "start_time": 3.52,
+          "duration": 0.72
+        },
+        {
+          "word": "mikadde",
+          "start_time": 4.38,
+          "duration": 1.16
+        },
+        {
+          "word": "mukoze",
+          "start_time": 5.62,
+          "duration": 0.48
+        },
+        {
+          "word": "ka",
+          "start_time": 6.12,
+          "duration": 0.12
+        },
+        {
+          "word": "omugenzi",
+          "start_time": 6.3,
+          "duration": 0.98
+        },
+        {
+          "word": "captain",
+          "start_time": 7.34,
+          "duration": 0.74
+        },
+        {
+          "word": "ssemakula",
+          "start_time": 8.12,
+          "duration": 0.74
+        },
+        {
+          "word": "katende",
+          "start_time": 8.92,
+          "duration": 0.7
+        },
+        {
+          "word": "eya",
+          "start_time": 9.7,
+          "duration": 0.12
+        }
+      ]
+    }
+  ]
+}

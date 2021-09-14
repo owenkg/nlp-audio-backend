@@ -1,0 +1,113 @@
+{
+  "transcripts": [
+    {
+      "confidence": -260.7506408691406,
+      "date": "2021-07-15",
+      "time": "20.00",
+      "filename": "cbs88_8-2021-07-15_T20.00.01.mp3107.wav",
+      "radio_station": "cbs88_8",
+      "words": [
+        {
+          "word": "wakana",
+          "start_time": 0.1,
+          "duration": 0.6
+        },
+        {
+          "word": "bwekakanye",
+          "start_time": 0.76,
+          "duration": 0.64
+        },
+        {
+          "word": "omugano",
+          "start_time": 1.42,
+          "duration": 0.32
+        },
+        {
+          "word": "nebagenda",
+          "start_time": 1.78,
+          "duration": 0.56
+        },
+        {
+          "word": "mu",
+          "start_time": 2.44,
+          "duration": 0.06
+        },
+        {
+          "word": "anekedde",
+          "start_time": 2.58,
+          "duration": 1.3
+        },
+        {
+          "word": "buli",
+          "start_time": 3.94,
+          "duration": 0.16
+        },
+        {
+          "word": "omu",
+          "start_time": 4.14,
+          "duration": 0.1
+        },
+        {
+          "word": "n'abasinga",
+          "start_time": 4.28,
+          "duration": 1.76
+        },
+        {
+          "word": "nalowooza",
+          "start_time": 6.1,
+          "duration": 0.46
+        },
+        {
+          "word": "nti",
+          "start_time": 6.58,
+          "duration": 0.12
+        },
+        {
+          "word": "ekintu",
+          "start_time": 6.76,
+          "duration": 0.36
+        },
+        {
+          "word": "kikoze",
+          "start_time": 7.16,
+          "duration": 0.42
+        },
+        {
+          "word": "eki",
+          "start_time": 7.6,
+          "duration": 0.26
+        },
+        {
+          "word": "kiwedde",
+          "start_time": 7.9,
+          "duration": 0.52
+        },
+        {
+          "word": "ne",
+          "start_time": 8.6,
+          "duration": 0.1
+        },
+        {
+          "word": "kino",
+          "start_time": 8.76,
+          "duration": 0.36
+        },
+        {
+          "word": "bano",
+          "start_time": 9.18,
+          "duration": 0.2
+        },
+        {
+          "word": "ne",
+          "start_time": 9.42,
+          "duration": 0.1
+        },
+        {
+          "word": "kemani",
+          "start_time": 9.58,
+          "duration": 0.4
+        }
+      ]
+    }
+  ]
+}

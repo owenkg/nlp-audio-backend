@@ -1,0 +1,93 @@
+{
+  "transcripts": [
+    {
+      "confidence": -171.06710815429688,
+      "date": "2021-06-22",
+      "time": "19.00",
+      "filename": "cbs89_2-2021-06-22_T19.00.011.mp3102.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "kati",
+          "start_time": 0.72,
+          "duration": 0.26
+        },
+        {
+          "word": "budde",
+          "start_time": 1.02,
+          "duration": 0.28
+        },
+        {
+          "word": "buno",
+          "start_time": 1.34,
+          "duration": 0.18
+        },
+        {
+          "word": "obuzibu",
+          "start_time": 1.54,
+          "duration": 0.38
+        },
+        {
+          "word": "okuziikirako",
+          "start_time": 2.08,
+          "duration": 0.84
+        },
+        {
+          "word": "mukwano",
+          "start_time": 2.98,
+          "duration": 0.54
+        },
+        {
+          "word": "gwo",
+          "start_time": 3.6,
+          "duration": 0.16
+        },
+        {
+          "word": "ba",
+          "start_time": 3.8,
+          "duration": 0.1
+        },
+        {
+          "word": "uganda",
+          "start_time": 4.0,
+          "duration": 0.52
+        },
+        {
+          "word": "obuzibu",
+          "start_time": 4.64,
+          "duration": 1.3
+        },
+        {
+          "word": "tubasaba",
+          "start_time": 6.0,
+          "duration": 0.56
+        },
+        {
+          "word": "ekyo",
+          "start_time": 6.58,
+          "duration": 0.16
+        },
+        {
+          "word": "tutuukirize",
+          "start_time": 6.78,
+          "duration": 1.68
+        },
+        {
+          "word": "mukama",
+          "start_time": 8.5,
+          "duration": 0.34
+        },
+        {
+          "word": "atuyamba",
+          "start_time": 9.04,
+          "duration": 0.66
+        },
+        {
+          "word": "tujja",
+          "start_time": 9.72,
+          "duration": 0.22
+        }
+      ]
+    }
+  ]
+}

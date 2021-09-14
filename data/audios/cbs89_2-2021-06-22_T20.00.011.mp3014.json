@@ -1,0 +1,98 @@
+{
+  "transcripts": [
+    {
+      "confidence": -163.7254180908203,
+      "date": "2021-06-22",
+      "time": "20.00",
+      "filename": "cbs89_2-2021-06-22_T20.00.011.mp3014.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "mu",
+          "start_time": 0.38,
+          "duration": 0.6
+        },
+        {
+          "word": "gavumenti",
+          "start_time": 1.06,
+          "duration": 0.68
+        },
+        {
+          "word": "waliwo",
+          "start_time": 1.8,
+          "duration": 0.24
+        },
+        {
+          "word": "yeekoba",
+          "start_time": 2.14,
+          "duration": 0.92
+        },
+        {
+          "word": "laba",
+          "start_time": 3.18,
+          "duration": 0.22
+        },
+        {
+          "word": "nabo",
+          "start_time": 3.42,
+          "duration": 0.2
+        },
+        {
+          "word": "bagezaako",
+          "start_time": 3.66,
+          "duration": 0.82
+        },
+        {
+          "word": "covid",
+          "start_time": 4.56,
+          "duration": 0.32
+        },
+        {
+          "word": "mulwadde",
+          "start_time": 4.94,
+          "duration": 0.44
+        },
+        {
+          "word": "bya",
+          "start_time": 5.42,
+          "duration": 0.98
+        },
+        {
+          "word": "essanyu",
+          "start_time": 6.56,
+          "duration": 0.58
+        },
+        {
+          "word": "and",
+          "start_time": 7.26,
+          "duration": 1.24
+        },
+        {
+          "word": "buli",
+          "start_time": 8.56,
+          "duration": 0.2
+        },
+        {
+          "word": "omu",
+          "start_time": 8.8,
+          "duration": 0.14
+        },
+        {
+          "word": "ali",
+          "start_time": 9.0,
+          "duration": 0.16
+        },
+        {
+          "word": "mu",
+          "start_time": 9.18,
+          "duration": 0.08
+        },
+        {
+          "word": "kulonda",
+          "start_time": 9.28,
+          "duration": 0.64
+        }
+      ]
+    }
+  ]
+}

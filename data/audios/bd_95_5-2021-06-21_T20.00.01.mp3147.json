@@ -1,0 +1,128 @@
+{
+  "transcripts": [
+    {
+      "confidence": -227.54364013671875,
+      "date": "2021-06-21",
+      "time": "20.00",
+      "filename": "bd_95_5-2021-06-21_T20.00.01.mp3147.wav",
+      "radio_station": "bd_95_5",
+      "words": [
+        {
+          "word": "yambala",
+          "start_time": 0.08,
+          "duration": 0.36
+        },
+        {
+          "word": "masiki",
+          "start_time": 0.48,
+          "duration": 0.32
+        },
+        {
+          "word": "obulungi",
+          "start_time": 0.9,
+          "duration": 0.46
+        },
+        {
+          "word": "ebikuma",
+          "start_time": 1.82,
+          "duration": 0.58
+        },
+        {
+          "word": "n'ennyindo",
+          "start_time": 2.44,
+          "duration": 0.52
+        },
+        {
+          "word": "n'aba",
+          "start_time": 3.18,
+          "duration": 0.26
+        },
+        {
+          "word": "mu",
+          "start_time": 3.46,
+          "duration": 0.12
+        },
+        {
+          "word": "ngalo",
+          "start_time": 3.62,
+          "duration": 0.28
+        },
+        {
+          "word": "nga",
+          "start_time": 3.94,
+          "duration": 0.1
+        },
+        {
+          "word": "okozesa",
+          "start_time": 4.06,
+          "duration": 0.34
+        },
+        {
+          "word": "sabbuuni",
+          "start_time": 4.44,
+          "duration": 0.36
+        },
+        {
+          "word": "n'amazzi",
+          "start_time": 4.84,
+          "duration": 0.38
+        },
+        {
+          "word": "buli",
+          "start_time": 5.26,
+          "duration": 0.14
+        },
+        {
+          "word": "kiseera",
+          "start_time": 5.42,
+          "duration": 0.36
+        },
+        {
+          "word": "oba",
+          "start_time": 6.14,
+          "duration": 0.16
+        },
+        {
+          "word": "kozesa",
+          "start_time": 6.32,
+          "duration": 0.42
+        },
+        {
+          "word": "ne",
+          "start_time": 6.78,
+          "duration": 0.66
+        },
+        {
+          "word": "ndera",
+          "start_time": 7.74,
+          "duration": 0.22
+        },
+        {
+          "word": "kugenda",
+          "start_time": 7.98,
+          "duration": 0.36
+        },
+        {
+          "word": "kati",
+          "start_time": 8.36,
+          "duration": 0.76
+        },
+        {
+          "word": "obubaka",
+          "start_time": 9.3,
+          "duration": 0.26
+        },
+        {
+          "word": "buno",
+          "start_time": 9.6,
+          "duration": 0.14
+        },
+        {
+          "word": "muka",
+          "start_time": 9.78,
+          "duration": 0.2
+        }
+      ]
+    }
+  ]
+}

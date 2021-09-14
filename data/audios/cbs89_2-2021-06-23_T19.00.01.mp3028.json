@@ -1,0 +1,98 @@
+{
+  "transcripts": [
+    {
+      "confidence": -153.14825439453125,
+      "date": "2021-06-23",
+      "time": "19.00",
+      "filename": "cbs89_2-2021-06-23_T19.00.01.mp3028.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "ebaddeko",
+          "start_time": 0.48,
+          "duration": 1.36
+        },
+        {
+          "word": "omuggalo",
+          "start_time": 1.98,
+          "duration": 0.78
+        },
+        {
+          "word": "zimbabwe",
+          "start_time": 2.88,
+          "duration": 0.58
+        },
+        {
+          "word": "yakafiirwa",
+          "start_time": 3.52,
+          "duration": 0.52
+        },
+        {
+          "word": "abantu",
+          "start_time": 4.08,
+          "duration": 0.24
+        },
+        {
+          "word": "emitwalo",
+          "start_time": 4.36,
+          "duration": 0.46
+        },
+        {
+          "word": "esatu",
+          "start_time": 4.84,
+          "duration": 0.78
+        },
+        {
+          "word": "mu",
+          "start_time": 5.84,
+          "duration": 0.24
+        },
+        {
+          "word": "kasanvu",
+          "start_time": 6.14,
+          "duration": 0.5
+        },
+        {
+          "word": "mu",
+          "start_time": 6.68,
+          "duration": 0.06
+        },
+        {
+          "word": "bibiri",
+          "start_time": 6.76,
+          "duration": 0.32
+        },
+        {
+          "word": "mu",
+          "start_time": 7.14,
+          "duration": 0.12
+        },
+        {
+          "word": "kinaana",
+          "start_time": 7.28,
+          "duration": 0.32
+        },
+        {
+          "word": "mu",
+          "start_time": 7.64,
+          "duration": 0.04
+        },
+        {
+          "word": "munaana",
+          "start_time": 7.72,
+          "duration": 0.66
+        },
+        {
+          "word": "abafukide",
+          "start_time": 8.52,
+          "duration": 1.12
+        },
+        {
+          "word": "ababaka",
+          "start_time": 9.74,
+          "duration": 0.22
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "transcripts": [
+    {
+      "confidence": -257.2724609375,
+      "date": "2021-06-22",
+      "time": "20.00",
+      "filename": "cbs89_2-2021-06-22_T20.00.011.mp3024.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "kubanga",
+          "start_time": 0.16,
+          "duration": 0.92
+        },
+        {
+          "word": "ku",
+          "start_time": 1.18,
+          "duration": 0.08
+        },
+        {
+          "word": "kubeerako",
+          "start_time": 1.28,
+          "duration": 0.42
+        },
+        {
+          "word": "abasirikale",
+          "start_time": 1.72,
+          "duration": 0.52
+        },
+        {
+          "word": "bayitirivu",
+          "start_time": 2.3,
+          "duration": 0.92
+        },
+        {
+          "word": "bakyagaanye",
+          "start_time": 3.36,
+          "duration": 0.78
+        },
+        {
+          "word": "ba",
+          "start_time": 4.18,
+          "duration": 0.62
+        },
+        {
+          "word": "banaabangako",
+          "start_time": 4.94,
+          "duration": 1.34
+        },
+        {
+          "word": "emigo",
+          "start_time": 6.3,
+          "duration": 1.18
+        },
+        {
+          "word": "abapolice",
+          "start_time": 7.6,
+          "duration": 0.8
+        },
+        {
+          "word": "abasirikale",
+          "start_time": 8.44,
+          "duration": 0.52
+        },
+        {
+          "word": "bawerako",
+          "start_time": 9.0,
+          "duration": 0.58
+        },
+        {
+          "word": "abantu",
+          "start_time": 9.62,
+          "duration": 0.26
+        },
+        {
+          "word": "ne",
+          "start_time": 9.9,
+          "duration": 0.04
+        }
+      ]
+    }
+  ]
+}

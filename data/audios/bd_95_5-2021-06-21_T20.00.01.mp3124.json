@@ -1,0 +1,78 @@
+{
+  "transcripts": [
+    {
+      "confidence": -168.66943359375,
+      "date": "2021-06-21",
+      "time": "20.00",
+      "filename": "bd_95_5-2021-06-21_T20.00.01.mp3124.wav",
+      "radio_station": "bd_95_5",
+      "words": [
+        {
+          "word": "mu",
+          "start_time": 0.42,
+          "duration": 0.28
+        },
+        {
+          "word": "kamuli",
+          "start_time": 0.78,
+          "duration": 0.84
+        },
+        {
+          "word": "ku",
+          "start_time": 1.68,
+          "duration": 0.18
+        },
+        {
+          "word": "ensiko",
+          "start_time": 1.88,
+          "duration": 1.46
+        },
+        {
+          "word": "ibanda",
+          "start_time": 3.48,
+          "duration": 0.84
+        },
+        {
+          "word": "parkinga",
+          "start_time": 4.86,
+          "duration": 2.06
+        },
+        {
+          "word": "busia",
+          "start_time": 6.98,
+          "duration": 0.7
+        },
+        {
+          "word": "eyo",
+          "start_time": 7.86,
+          "duration": 0.2
+        },
+        {
+          "word": "na",
+          "start_time": 8.14,
+          "duration": 0.4
+        },
+        {
+          "word": "nga",
+          "start_time": 8.66,
+          "duration": 0.14
+        },
+        {
+          "word": "abantu",
+          "start_time": 8.84,
+          "duration": 0.3
+        },
+        {
+          "word": "bano",
+          "start_time": 9.2,
+          "duration": 0.32
+        },
+        {
+          "word": "bafunye",
+          "start_time": 9.58,
+          "duration": 0.4
+        }
+      ]
+    }
+  ]
+}

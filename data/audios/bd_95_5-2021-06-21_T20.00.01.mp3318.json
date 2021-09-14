@@ -1,0 +1,88 @@
+{
+  "transcripts": [
+    {
+      "confidence": -217.26510620117188,
+      "date": "2021-06-21",
+      "time": "20.00",
+      "filename": "bd_95_5-2021-06-21_T20.00.01.mp3318.wav",
+      "radio_station": "bd_95_5",
+      "words": [
+        {
+          "word": "wewawo",
+          "start_time": 0.4,
+          "duration": 0.74
+        },
+        {
+          "word": "waliwo",
+          "start_time": 1.28,
+          "duration": 0.38
+        },
+        {
+          "word": "akulira",
+          "start_time": 1.68,
+          "duration": 0.52
+        },
+        {
+          "word": "naye",
+          "start_time": 2.28,
+          "duration": 0.3
+        },
+        {
+          "word": "nga",
+          "start_time": 2.66,
+          "duration": 0.54
+        },
+        {
+          "word": "mwekuumanga",
+          "start_time": 3.3,
+          "duration": 1.0
+        },
+        {
+          "word": "katonda",
+          "start_time": 4.34,
+          "duration": 0.44
+        },
+        {
+          "word": "okufaayo",
+          "start_time": 4.82,
+          "duration": 0.3
+        },
+        {
+          "word": "kuteekawo",
+          "start_time": 5.16,
+          "duration": 0.66
+        },
+        {
+          "word": "kale",
+          "start_time": 6.02,
+          "duration": 0.26
+        },
+        {
+          "word": "n'agamba",
+          "start_time": 6.3,
+          "duration": 0.58
+        },
+        {
+          "word": "okutegananga",
+          "start_time": 7.12,
+          "duration": 1.32
+        },
+        {
+          "word": "eyo",
+          "start_time": 8.48,
+          "duration": 0.3
+        },
+        {
+          "word": "ababadde",
+          "start_time": 8.9,
+          "duration": 0.38
+        },
+        {
+          "word": "bakyala",
+          "start_time": 9.3,
+          "duration": 0.48
+        }
+      ]
+    }
+  ]
+}

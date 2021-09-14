@@ -1,0 +1,123 @@
+{
+  "transcripts": [
+    {
+      "confidence": -174.40907287597656,
+      "date": "2021-06-22",
+      "time": "19.00",
+      "filename": "cbs89_2-2021-06-22_T19.00.011.mp3130.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "yonna",
+          "start_time": 0.46,
+          "duration": 0.22
+        },
+        {
+          "word": "gye",
+          "start_time": 0.72,
+          "duration": 0.16
+        },
+        {
+          "word": "ndi",
+          "start_time": 1.1,
+          "duration": 0.52
+        },
+        {
+          "word": "awo",
+          "start_time": 1.74,
+          "duration": 0.26
+        },
+        {
+          "word": "babagabira",
+          "start_time": 2.04,
+          "duration": 1.1
+        },
+        {
+          "word": "zikomyewo",
+          "start_time": 3.4,
+          "duration": 0.78
+        },
+        {
+          "word": "tulabe",
+          "start_time": 4.22,
+          "duration": 0.36
+        },
+        {
+          "word": "nga",
+          "start_time": 4.64,
+          "duration": 0.12
+        },
+        {
+          "word": "abasawo",
+          "start_time": 4.8,
+          "duration": 0.46
+        },
+        {
+          "word": "mu",
+          "start_time": 5.3,
+          "duration": 0.06
+        },
+        {
+          "word": "malwaliro",
+          "start_time": 5.38,
+          "duration": 0.42
+        },
+        {
+          "word": "ga",
+          "start_time": 5.86,
+          "duration": 0.36
+        },
+        {
+          "word": "abafuddeyo",
+          "start_time": 6.36,
+          "duration": 0.68
+        },
+        {
+          "word": "nnyo",
+          "start_time": 7.1,
+          "duration": 0.18
+        },
+        {
+          "word": "kuba",
+          "start_time": 7.34,
+          "duration": 0.22
+        },
+        {
+          "word": "bo",
+          "start_time": 7.6,
+          "duration": 0.12
+        },
+        {
+          "word": "bafaayo",
+          "start_time": 7.76,
+          "duration": 0.48
+        },
+        {
+          "word": "okulaba",
+          "start_time": 8.28,
+          "duration": 0.34
+        },
+        {
+          "word": "nga",
+          "start_time": 8.66,
+          "duration": 0.12
+        },
+        {
+          "word": "abantu",
+          "start_time": 8.8,
+          "duration": 0.22
+        },
+        {
+          "word": "ba",
+          "start_time": 9.06,
+          "duration": 0.1
+        },
+        {
+          "word": "bajanjaba",
+          "start_time": 9.18,
+          "duration": 0.58
+        }
+      ]
+    }
+  ]
+}

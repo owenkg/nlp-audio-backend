@@ -1,0 +1,108 @@
+{
+  "transcripts": [
+    {
+      "confidence": -213.0184326171875,
+      "date": "2021-06-23",
+      "time": "19.00",
+      "filename": "cbs89_2-2021-06-23_T19.00.01.mp3125.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "kye",
+          "start_time": 0.3,
+          "duration": 0.16
+        },
+        {
+          "word": "kyasoma",
+          "start_time": 0.52,
+          "duration": 1.58
+        },
+        {
+          "word": "tuterezeza",
+          "start_time": 2.16,
+          "duration": 0.72
+        },
+        {
+          "word": "tutya",
+          "start_time": 2.92,
+          "duration": 0.46
+        },
+        {
+          "word": "mu",
+          "start_time": 3.44,
+          "duration": 0.1
+        },
+        {
+          "word": "nnaku",
+          "start_time": 3.56,
+          "duration": 0.22
+        },
+        {
+          "word": "ana",
+          "start_time": 3.84,
+          "duration": 0.14
+        },
+        {
+          "word": "mu",
+          "start_time": 4.02,
+          "duration": 0.1
+        },
+        {
+          "word": "bbiri",
+          "start_time": 4.16,
+          "duration": 0.2
+        },
+        {
+          "word": "tusuubira",
+          "start_time": 4.4,
+          "duration": 0.48
+        },
+        {
+          "word": "ki",
+          "start_time": 4.98,
+          "duration": 0.32
+        },
+        {
+          "word": "bweggwawo",
+          "start_time": 5.32,
+          "duration": 1.08
+        },
+        {
+          "word": "tuddayo",
+          "start_time": 6.46,
+          "duration": 0.32
+        },
+        {
+          "word": "kukola",
+          "start_time": 6.84,
+          "duration": 0.22
+        },
+        {
+          "word": "covid",
+          "start_time": 7.08,
+          "duration": 0.28
+        },
+        {
+          "word": "anaabawonya",
+          "start_time": 7.42,
+          "duration": 1.58
+        },
+        {
+          "word": "ku",
+          "start_time": 9.06,
+          "duration": 0.18
+        },
+        {
+          "word": "nakola",
+          "start_time": 9.26,
+          "duration": 0.5
+        },
+        {
+          "word": "ki",
+          "start_time": 9.82,
+          "duration": 0.06
+        }
+      ]
+    }
+  ]
+}

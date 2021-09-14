@@ -1,0 +1,118 @@
+{
+  "transcripts": [
+    {
+      "confidence": -336.9136962890625,
+      "date": "2021-06-23",
+      "time": "19.00",
+      "filename": "cbs89_2-2021-06-23_T19.00.01.mp3309.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "bulijjo",
+          "start_time": 0.04,
+          "duration": 0.22
+        },
+        {
+          "word": "tulina",
+          "start_time": 0.28,
+          "duration": 0.2
+        },
+        {
+          "word": "omunginga",
+          "start_time": 0.5,
+          "duration": 0.58
+        },
+        {
+          "word": "amalwaliro",
+          "start_time": 1.1,
+          "duration": 0.44
+        },
+        {
+          "word": "galina",
+          "start_time": 1.58,
+          "duration": 0.26
+        },
+        {
+          "word": "kukola",
+          "start_time": 1.88,
+          "duration": 0.24
+        },
+        {
+          "word": "ki",
+          "start_time": 2.14,
+          "duration": 0.12
+        },
+        {
+          "word": "omubaka",
+          "start_time": 2.34,
+          "duration": 0.24
+        },
+        {
+          "word": "wa",
+          "start_time": 2.62,
+          "duration": 0.04
+        },
+        {
+          "word": "mityana",
+          "start_time": 2.68,
+          "duration": 0.38
+        },
+        {
+          "word": "abalalaasaana",
+          "start_time": 3.1,
+          "duration": 0.96
+        },
+        {
+          "word": "agambye",
+          "start_time": 4.1,
+          "duration": 0.24
+        },
+        {
+          "word": "nti",
+          "start_time": 4.36,
+          "duration": 0.08
+        },
+        {
+          "word": "ajja",
+          "start_time": 4.46,
+          "duration": 0.18
+        },
+        {
+          "word": "kubeera",
+          "start_time": 4.66,
+          "duration": 0.26
+        },
+        {
+          "word": "mu",
+          "start_time": 4.96,
+          "duration": 0.14
+        },
+        {
+          "word": "akatuuyo",
+          "start_time": 5.18,
+          "duration": 1.74
+        },
+        {
+          "word": "ekirungi",
+          "start_time": 7.02,
+          "duration": 0.32
+        },
+        {
+          "word": "kyayo",
+          "start_time": 7.38,
+          "duration": 0.3
+        },
+        {
+          "word": "nti",
+          "start_time": 7.7,
+          "duration": 0.08
+        },
+        {
+          "word": "yandibadde",
+          "start_time": 7.82,
+          "duration": 1.02
+        }
+      ]
+    }
+  ]
+}

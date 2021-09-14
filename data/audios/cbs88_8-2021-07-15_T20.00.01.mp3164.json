@@ -1,0 +1,108 @@
+{
+  "transcripts": [
+    {
+      "confidence": -267.42681884765625,
+      "date": "2021-07-15",
+      "time": "20.00",
+      "filename": "cbs88_8-2021-07-15_T20.00.01.mp3164.wav",
+      "radio_station": "cbs88_8",
+      "words": [
+        {
+          "word": "mwezi",
+          "start_time": 0.04,
+          "duration": 0.56
+        },
+        {
+          "word": "bakubye",
+          "start_time": 0.62,
+          "duration": 0.94
+        },
+        {
+          "word": "tewaliwo",
+          "start_time": 1.6,
+          "duration": 0.42
+        },
+        {
+          "word": "osobola",
+          "start_time": 2.04,
+          "duration": 0.3
+        },
+        {
+          "word": "zigula",
+          "start_time": 2.4,
+          "duration": 0.36
+        },
+        {
+          "word": "kati",
+          "start_time": 2.82,
+          "duration": 0.14
+        },
+        {
+          "word": "tusigadde",
+          "start_time": 2.98,
+          "duration": 0.4
+        },
+        {
+          "word": "ku",
+          "start_time": 3.42,
+          "duration": 0.1
+        },
+        {
+          "word": "obanga",
+          "start_time": 3.6,
+          "duration": 0.42
+        },
+        {
+          "word": "covidex",
+          "start_time": 4.06,
+          "duration": 0.84
+        },
+        {
+          "word": "covax",
+          "start_time": 4.94,
+          "duration": 0.48
+        },
+        {
+          "word": "amin",
+          "start_time": 5.56,
+          "duration": 0.66
+        },
+        {
+          "word": "cokaka",
+          "start_time": 6.28,
+          "duration": 0.96
+        },
+        {
+          "word": "okugenda",
+          "start_time": 7.28,
+          "duration": 0.54
+        },
+        {
+          "word": "e",
+          "start_time": 7.88,
+          "duration": 0.44
+        },
+        {
+          "word": "kati",
+          "start_time": 8.42,
+          "duration": 0.16
+        },
+        {
+          "word": "france",
+          "start_time": 8.62,
+          "duration": 0.34
+        },
+        {
+          "word": "ya",
+          "start_time": 9.0,
+          "duration": 0.04
+        },
+        {
+          "word": "tuyambako",
+          "start_time": 9.08,
+          "duration": 0.6
+        }
+      ]
+    }
+  ]
+}

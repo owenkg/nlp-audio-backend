@@ -1,0 +1,83 @@
+{
+  "transcripts": [
+    {
+      "confidence": -286.8050231933594,
+      "date": "2021-06-23",
+      "time": "19.00",
+      "filename": "cbs89_2-2021-06-23_T19.00.01.mp3093.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "muvaamu",
+          "start_time": 0.34,
+          "duration": 0.66
+        },
+        {
+          "word": "covid",
+          "start_time": 1.08,
+          "duration": 0.22
+        },
+        {
+          "word": "anaabawonya",
+          "start_time": 1.36,
+          "duration": 0.54
+        },
+        {
+          "word": "tuddayo",
+          "start_time": 1.96,
+          "duration": 0.32
+        },
+        {
+          "word": "okukola",
+          "start_time": 2.32,
+          "duration": 1.32
+        },
+        {
+          "word": "kye",
+          "start_time": 3.7,
+          "duration": 0.18
+        },
+        {
+          "word": "ekitatera",
+          "start_time": 3.9,
+          "duration": 0.78
+        },
+        {
+          "word": "kyetukola",
+          "start_time": 4.74,
+          "duration": 0.66
+        },
+        {
+          "word": "ensaano",
+          "start_time": 5.52,
+          "duration": 1.56
+        },
+        {
+          "word": "nze",
+          "start_time": 7.1,
+          "duration": 0.12
+        },
+        {
+          "word": "mukunonya",
+          "start_time": 7.26,
+          "duration": 0.48
+        },
+        {
+          "word": "ku",
+          "start_time": 7.78,
+          "duration": 0.12
+        },
+        {
+          "word": "ndibagabula",
+          "start_time": 7.92,
+          "duration": 0.66
+        },
+        {
+          "word": "emmundu",
+          "start_time": 8.78,
+          "duration": 1.2
+        }
+      ]
+    }
+  ]
+}

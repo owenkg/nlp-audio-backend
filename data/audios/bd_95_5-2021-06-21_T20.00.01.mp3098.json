@@ -1,0 +1,128 @@
+{
+  "transcripts": [
+    {
+      "confidence": -200.66900634765625,
+      "date": "2021-06-21",
+      "time": "20.00",
+      "filename": "bd_95_5-2021-06-21_T20.00.01.mp3098.wav",
+      "radio_station": "bd_95_5",
+      "words": [
+        {
+          "word": "kubanga",
+          "start_time": 0.12,
+          "duration": 0.24
+        },
+        {
+          "word": "mubeeramu",
+          "start_time": 0.4,
+          "duration": 0.42
+        },
+        {
+          "word": "abantu",
+          "start_time": 0.86,
+          "duration": 0.32
+        },
+        {
+          "word": "bangi",
+          "start_time": 1.24,
+          "duration": 0.84
+        },
+        {
+          "word": "naye",
+          "start_time": 2.12,
+          "duration": 0.16
+        },
+        {
+          "word": "ebintu",
+          "start_time": 2.3,
+          "duration": 0.18
+        },
+        {
+          "word": "ebikolebwa",
+          "start_time": 2.52,
+          "duration": 0.4
+        },
+        {
+          "word": "mu",
+          "start_time": 2.96,
+          "duration": 0.06
+        },
+        {
+          "word": "bubi",
+          "start_time": 3.06,
+          "duration": 0.14
+        },
+        {
+          "word": "babiri",
+          "start_time": 3.22,
+          "duration": 0.8
+        },
+        {
+          "word": "ekisinga",
+          "start_time": 4.14,
+          "duration": 0.42
+        },
+        {
+          "word": "okwewunyisa",
+          "start_time": 4.6,
+          "duration": 0.72
+        },
+        {
+          "word": "abasuubuzi",
+          "start_time": 5.56,
+          "duration": 0.48
+        },
+        {
+          "word": "bano",
+          "start_time": 6.08,
+          "duration": 0.18
+        },
+        {
+          "word": "buli",
+          "start_time": 6.3,
+          "duration": 0.12
+        },
+        {
+          "word": "mulyango",
+          "start_time": 6.44,
+          "duration": 0.34
+        },
+        {
+          "word": "oguyingira",
+          "start_time": 6.84,
+          "duration": 0.4
+        },
+        {
+          "word": "baguze",
+          "start_time": 7.28,
+          "duration": 0.36
+        },
+        {
+          "word": "kataka",
+          "start_time": 7.7,
+          "duration": 0.54
+        },
+        {
+          "word": "buno",
+          "start_time": 8.28,
+          "duration": 0.12
+        },
+        {
+          "word": "butaka",
+          "start_time": 8.44,
+          "duration": 0.42
+        },
+        {
+          "word": "obutono",
+          "start_time": 8.88,
+          "duration": 0.26
+        },
+        {
+          "word": "bwalinga",
+          "start_time": 9.18,
+          "duration": 0.66
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "transcripts": [
+    {
+      "confidence": -161.21142578125,
+      "date": "2021-06-22",
+      "time": "19.00",
+      "filename": "cbs89_2-2021-06-22_T19.00.011.mp3106.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "embeera",
+          "start_time": 0.14,
+          "duration": 0.7
+        },
+        {
+          "word": "ffe",
+          "start_time": 0.96,
+          "duration": 0.2
+        },
+        {
+          "word": "ewaffe",
+          "start_time": 1.2,
+          "duration": 0.64
+        },
+        {
+          "word": "mu",
+          "start_time": 1.98,
+          "duration": 0.12
+        },
+        {
+          "word": "buntu",
+          "start_time": 2.14,
+          "duration": 0.34
+        },
+        {
+          "word": "bulamu",
+          "start_time": 2.52,
+          "duration": 0.8
+        },
+        {
+          "word": "tewekubira",
+          "start_time": 3.44,
+          "duration": 0.62
+        },
+        {
+          "word": "ku",
+          "start_time": 4.1,
+          "duration": 0.12
+        },
+        {
+          "word": "masimu",
+          "start_time": 4.24,
+          "duration": 1.7
+        },
+        {
+          "word": "n'ogamba",
+          "start_time": 6.02,
+          "duration": 0.6
+        },
+        {
+          "word": "mu",
+          "start_time": 6.66,
+          "duration": 0.2
+        },
+        {
+          "word": "nnono",
+          "start_time": 6.9,
+          "duration": 0.32
+        },
+        {
+          "word": "mugamba",
+          "start_time": 7.26,
+          "duration": 0.42
+        },
+        {
+          "word": "nyambako",
+          "start_time": 7.82,
+          "duration": 0.8
+        },
+        {
+          "word": "ewala",
+          "start_time": 8.92,
+          "duration": 0.4
+        },
+        {
+          "word": "done",
+          "start_time": 9.36,
+          "duration": 0.56
+        }
+      ]
+    }
+  ]
+}

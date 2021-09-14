@@ -1,0 +1,103 @@
+{
+  "transcripts": [
+    {
+      "confidence": -276.8464660644531,
+      "date": "2021-06-23",
+      "time": "19.00",
+      "filename": "cbs89_2-2021-06-23_T19.00.01.mp3354.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "bo",
+          "start_time": 0.24,
+          "duration": 1.64
+        },
+        {
+          "word": "bave",
+          "start_time": 1.94,
+          "duration": 0.22
+        },
+        {
+          "word": "mu",
+          "start_time": 2.2,
+          "duration": 0.08
+        },
+        {
+          "word": "bino",
+          "start_time": 2.3,
+          "duration": 0.18
+        },
+        {
+          "word": "bya",
+          "start_time": 2.52,
+          "duration": 0.14
+        },
+        {
+          "word": "saente",
+          "start_time": 2.68,
+          "duration": 1.28
+        },
+        {
+          "word": "ne",
+          "start_time": 4.04,
+          "duration": 0.72
+        },
+        {
+          "word": "gamateeka",
+          "start_time": 4.82,
+          "duration": 0.8
+        },
+        {
+          "word": "ssente",
+          "start_time": 5.66,
+          "duration": 0.38
+        },
+        {
+          "word": "mugavumenti",
+          "start_time": 6.08,
+          "duration": 0.48
+        },
+        {
+          "word": "okuyisa",
+          "start_time": 6.6,
+          "duration": 0.3
+        },
+        {
+          "word": "ssente",
+          "start_time": 6.96,
+          "duration": 0.34
+        },
+        {
+          "word": "atalowooza",
+          "start_time": 7.58,
+          "duration": 0.48
+        },
+        {
+          "word": "era",
+          "start_time": 8.26,
+          "duration": 0.24
+        },
+        {
+          "word": "bakole",
+          "start_time": 8.54,
+          "duration": 0.76
+        },
+        {
+          "word": "bave",
+          "start_time": 9.36,
+          "duration": 0.28
+        },
+        {
+          "word": "ente",
+          "start_time": 9.66,
+          "duration": 0.12
+        },
+        {
+          "word": "eza",
+          "start_time": 9.82,
+          "duration": 0.1
+        }
+      ]
+    }
+  ]
+}

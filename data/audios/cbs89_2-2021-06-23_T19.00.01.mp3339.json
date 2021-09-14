@@ -1,0 +1,98 @@
+{
+  "transcripts": [
+    {
+      "confidence": -234.8661346435547,
+      "date": "2021-06-23",
+      "time": "19.00",
+      "filename": "cbs89_2-2021-06-23_T19.00.01.mp3339.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "amasiga",
+          "start_time": 0.16,
+          "duration": 0.3
+        },
+        {
+          "word": "ekiteeka",
+          "start_time": 0.58,
+          "duration": 0.4
+        },
+        {
+          "word": "mu",
+          "start_time": 1.0,
+          "duration": 0.12
+        },
+        {
+          "word": "kyenyi",
+          "start_time": 1.16,
+          "duration": 0.86
+        },
+        {
+          "word": "amusala",
+          "start_time": 2.14,
+          "duration": 1.6
+        },
+        {
+          "word": "essimu",
+          "start_time": 3.86,
+          "duration": 0.28
+        },
+        {
+          "word": "saalaba",
+          "start_time": 4.18,
+          "duration": 0.66
+        },
+        {
+          "word": "basimeko",
+          "start_time": 4.9,
+          "duration": 0.54
+        },
+        {
+          "word": "ku",
+          "start_time": 5.48,
+          "duration": 0.08
+        },
+        {
+          "word": "mulamwa",
+          "start_time": 5.58,
+          "duration": 1.62
+        },
+        {
+          "word": "naye",
+          "start_time": 7.22,
+          "duration": 0.3
+        },
+        {
+          "word": "nga",
+          "start_time": 7.56,
+          "duration": 0.12
+        },
+        {
+          "word": "n'olwekyo",
+          "start_time": 7.7,
+          "duration": 0.32
+        },
+        {
+          "word": "okusobozesa",
+          "start_time": 8.06,
+          "duration": 0.66
+        },
+        {
+          "word": "ababaka",
+          "start_time": 8.76,
+          "duration": 0.3
+        },
+        {
+          "word": "okutuukiriza",
+          "start_time": 9.1,
+          "duration": 0.56
+        },
+        {
+          "word": "kino",
+          "start_time": 9.7,
+          "duration": 0.24
+        }
+      ]
+    }
+  ]
+}

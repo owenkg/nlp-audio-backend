@@ -1,0 +1,58 @@
+{
+  "transcripts": [
+    {
+      "confidence": -96.1677474975586,
+      "date": "2021-06-23",
+      "time": "19.00",
+      "filename": "cbs89_2-2021-06-23_T19.00.01.mp3126.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "abaawonye",
+          "start_time": 0.08,
+          "duration": 1.14
+        },
+        {
+          "word": "kovid",
+          "start_time": 1.92,
+          "duration": 2.56
+        },
+        {
+          "word": "agenda",
+          "start_time": 4.58,
+          "duration": 0.24
+        },
+        {
+          "word": "kuba",
+          "start_time": 4.86,
+          "duration": 0.14
+        },
+        {
+          "word": "wadde",
+          "start_time": 5.2,
+          "duration": 0.98
+        },
+        {
+          "word": "naye",
+          "start_time": 6.26,
+          "duration": 0.76
+        },
+        {
+          "word": "ki",
+          "start_time": 7.1,
+          "duration": 0.26
+        },
+        {
+          "word": "kigenda",
+          "start_time": 7.4,
+          "duration": 0.36
+        },
+        {
+          "word": "okubeerawo",
+          "start_time": 7.8,
+          "duration": 0.46
+        }
+      ]
+    }
+  ]
+}

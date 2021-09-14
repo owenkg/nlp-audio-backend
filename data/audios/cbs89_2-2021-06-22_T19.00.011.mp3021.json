@@ -1,0 +1,118 @@
+{
+  "transcripts": [
+    {
+      "confidence": -179.11122131347656,
+      "date": "2021-06-22",
+      "time": "19.00",
+      "filename": "cbs89_2-2021-06-22_T19.00.011.mp3021.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "ennaku",
+          "start_time": 0.08,
+          "duration": 0.54
+        },
+        {
+          "word": "ana",
+          "start_time": 0.64,
+          "duration": 0.18
+        },
+        {
+          "word": "mu",
+          "start_time": 0.84,
+          "duration": 0.14
+        },
+        {
+          "word": "ebiri",
+          "start_time": 1.0,
+          "duration": 0.5
+        },
+        {
+          "word": "ava",
+          "start_time": 1.72,
+          "duration": 0.34
+        },
+        {
+          "word": "emingi",
+          "start_time": 2.08,
+          "duration": 0.26
+        },
+        {
+          "word": "eyolekera",
+          "start_time": 2.38,
+          "duration": 0.5
+        },
+        {
+          "word": "mu",
+          "start_time": 2.92,
+          "duration": 0.12
+        },
+        {
+          "word": "nteekateeka",
+          "start_time": 3.08,
+          "duration": 0.92
+        },
+        {
+          "word": "eyo",
+          "start_time": 4.1,
+          "duration": 0.14
+        },
+        {
+          "word": "okuddukirira",
+          "start_time": 4.26,
+          "duration": 0.76
+        },
+        {
+          "word": "banna",
+          "start_time": 5.08,
+          "duration": 0.22
+        },
+        {
+          "word": "uganda",
+          "start_time": 5.38,
+          "duration": 0.8
+        },
+        {
+          "word": "mu",
+          "start_time": 6.26,
+          "duration": 0.12
+        },
+        {
+          "word": "muggalo",
+          "start_time": 6.4,
+          "duration": 0.44
+        },
+        {
+          "word": "ogwasooka",
+          "start_time": 6.98,
+          "duration": 1.0
+        },
+        {
+          "word": "mu",
+          "start_time": 8.04,
+          "duration": 0.1
+        },
+        {
+          "word": "kwogerako",
+          "start_time": 8.16,
+          "duration": 0.42
+        },
+        {
+          "word": "eri",
+          "start_time": 8.6,
+          "duration": 0.1
+        },
+        {
+          "word": "bannamawulire",
+          "start_time": 8.72,
+          "duration": 0.66
+        },
+        {
+          "word": "alikiteeka",
+          "start_time": 9.48,
+          "duration": 0.5
+        }
+      ]
+    }
+  ]
+}

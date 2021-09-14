@@ -1,0 +1,108 @@
+{
+  "transcripts": [
+    {
+      "confidence": -239.4755859375,
+      "date": "2021-06-21",
+      "time": "20.00",
+      "filename": "bd_95_5-2021-06-21_T20.00.01.mp3101.wav",
+      "radio_station": "bd_95_5",
+      "words": [
+        {
+          "word": "ssi",
+          "start_time": 0.12,
+          "duration": 0.26
+        },
+        {
+          "word": "waffe",
+          "start_time": 0.4,
+          "duration": 0.18
+        },
+        {
+          "word": "matia",
+          "start_time": 0.62,
+          "duration": 0.32
+        },
+        {
+          "word": "ssebo",
+          "start_time": 0.98,
+          "duration": 0.22
+        },
+        {
+          "word": "busobodde",
+          "start_time": 1.22,
+          "duration": 0.56
+        },
+        {
+          "word": "okutuukayo",
+          "start_time": 1.8,
+          "duration": 0.94
+        },
+        {
+          "word": "n'amanya",
+          "start_time": 2.82,
+          "duration": 0.74
+        },
+        {
+          "word": "ebibadde",
+          "start_time": 3.7,
+          "duration": 0.86
+        },
+        {
+          "word": "emiranga",
+          "start_time": 4.72,
+          "duration": 0.42
+        },
+        {
+          "word": "ebiwoobe",
+          "start_time": 5.24,
+          "duration": 0.64
+        },
+        {
+          "word": "ebirimu",
+          "start_time": 5.9,
+          "duration": 0.46
+        },
+        {
+          "word": "basuubuzi",
+          "start_time": 6.38,
+          "duration": 0.42
+        },
+        {
+          "word": "begomba",
+          "start_time": 6.84,
+          "duration": 0.94
+        },
+        {
+          "word": "masaka",
+          "start_time": 7.82,
+          "duration": 0.28
+        },
+        {
+          "word": "wakati",
+          "start_time": 8.16,
+          "duration": 0.56
+        },
+        {
+          "word": "oluvanyuma",
+          "start_time": 8.84,
+          "duration": 0.38
+        },
+        {
+          "word": "lwa",
+          "start_time": 9.24,
+          "duration": 0.1
+        },
+        {
+          "word": "police",
+          "start_time": 9.38,
+          "duration": 0.4
+        },
+        {
+          "word": "myaka",
+          "start_time": 9.82,
+          "duration": 0.16
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "transcripts": [
+    {
+      "confidence": -221.66026306152344,
+      "date": "2021-07-15",
+      "time": "20.00",
+      "filename": "cbs88_8-2021-07-15_T20.00.01.mp3165.wav",
+      "radio_station": "cbs88_8",
+      "words": [
+        {
+          "word": "twagala",
+          "start_time": 0.1,
+          "duration": 0.32
+        },
+        {
+          "word": "ne",
+          "start_time": 0.46,
+          "duration": 0.18
+        },
+        {
+          "word": "anti",
+          "start_time": 1.48,
+          "duration": 0.26
+        },
+        {
+          "word": "endala",
+          "start_time": 1.84,
+          "duration": 0.26
+        },
+        {
+          "word": "we",
+          "start_time": 2.3,
+          "duration": 0.34
+        },
+        {
+          "word": "tuwulidde",
+          "start_time": 2.7,
+          "duration": 0.52
+        },
+        {
+          "word": "nti",
+          "start_time": 3.24,
+          "duration": 0.08
+        },
+        {
+          "word": "ne",
+          "start_time": 3.36,
+          "duration": 0.38
+        },
+        {
+          "word": "tugenda",
+          "start_time": 3.76,
+          "duration": 0.22
+        },
+        {
+          "word": "kufuna",
+          "start_time": 4.0,
+          "duration": 0.22
+        },
+        {
+          "word": "ne",
+          "start_time": 4.28,
+          "duration": 0.06
+        },
+        {
+          "word": "ku",
+          "start_time": 4.38,
+          "duration": 0.08
+        },
+        {
+          "word": "irine",
+          "start_time": 4.66,
+          "duration": 0.98
+        },
+        {
+          "word": "kakadde",
+          "start_time": 5.68,
+          "duration": 0.32
+        },
+        {
+          "word": "kamu",
+          "start_time": 6.04,
+          "duration": 0.6
+        },
+        {
+          "word": "naye",
+          "start_time": 6.68,
+          "duration": 0.14
+        },
+        {
+          "word": "ne",
+          "start_time": 6.84,
+          "duration": 0.08
+        },
+        {
+          "word": "kitegeeza",
+          "start_time": 6.96,
+          "duration": 0.56
+        },
+        {
+          "word": "nti",
+          "start_time": 7.54,
+          "duration": 0.38
+        },
+        {
+          "word": "obudde",
+          "start_time": 8.06,
+          "duration": 0.32
+        },
+        {
+          "word": "obulabwako",
+          "start_time": 8.42,
+          "duration": 1.12
+        }
+      ]
+    }
+  ]
+}

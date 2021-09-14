@@ -1,0 +1,143 @@
+{
+  "transcripts": [
+    {
+      "confidence": -196.53237915039062,
+      "date": "2021-06-21",
+      "time": "20.00",
+      "filename": "bd_95_5-2021-06-21_T20.00.01.mp3119.wav",
+      "radio_station": "bd_95_5",
+      "words": [
+        {
+          "word": "uganda",
+          "start_time": 0.12,
+          "duration": 0.26
+        },
+        {
+          "word": "nti",
+          "start_time": 0.42,
+          "duration": 0.1
+        },
+        {
+          "word": "obulwadde",
+          "start_time": 0.58,
+          "duration": 0.32
+        },
+        {
+          "word": "buno",
+          "start_time": 0.94,
+          "duration": 0.4
+        },
+        {
+          "word": "bwongedde",
+          "start_time": 1.42,
+          "duration": 0.48
+        },
+        {
+          "word": "okufunga",
+          "start_time": 1.92,
+          "duration": 0.38
+        },
+        {
+          "word": "ekyonga",
+          "start_time": 2.32,
+          "duration": 0.38
+        },
+        {
+          "word": "ku",
+          "start_time": 2.72,
+          "duration": 0.08
+        },
+        {
+          "word": "ba",
+          "start_time": 2.82,
+          "duration": 0.08
+        },
+        {
+          "word": "basembye",
+          "start_time": 2.92,
+          "duration": 0.48
+        },
+        {
+          "word": "okufulumya",
+          "start_time": 3.42,
+          "duration": 0.32
+        },
+        {
+          "word": "ebyafulumiziddwa",
+          "start_time": 3.78,
+          "duration": 0.74
+        },
+        {
+          "word": "ggulo",
+          "start_time": 4.58,
+          "duration": 0.64
+        },
+        {
+          "word": "kwekukebera",
+          "start_time": 5.26,
+          "duration": 0.64
+        },
+        {
+          "word": "ku",
+          "start_time": 5.94,
+          "duration": 0.1
+        },
+        {
+          "word": "basengekera",
+          "start_time": 6.06,
+          "duration": 0.94
+        },
+        {
+          "word": "nga",
+          "start_time": 7.04,
+          "duration": 0.1
+        },
+        {
+          "word": "banna",
+          "start_time": 7.16,
+          "duration": 0.22
+        },
+        {
+          "word": "uganda",
+          "start_time": 7.44,
+          "duration": 0.56
+        },
+        {
+          "word": "lukumi",
+          "start_time": 8.06,
+          "duration": 0.34
+        },
+        {
+          "word": "bisatu",
+          "start_time": 8.42,
+          "duration": 0.32
+        },
+        {
+          "word": "mu",
+          "start_time": 8.78,
+          "duration": 0.1
+        },
+        {
+          "word": "nkaaga",
+          "start_time": 8.96,
+          "duration": 0.28
+        },
+        {
+          "word": "mu",
+          "start_time": 9.26,
+          "duration": 0.1
+        },
+        {
+          "word": "mu",
+          "start_time": 9.54,
+          "duration": 0.08
+        },
+        {
+          "word": "bana",
+          "start_time": 9.64,
+          "duration": 0.18
+        }
+      ]
+    }
+  ]
+}

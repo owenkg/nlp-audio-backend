@@ -1,0 +1,108 @@
+{
+  "transcripts": [
+    {
+      "confidence": -181.65887451171875,
+      "date": "2021-06-23",
+      "time": "19.00",
+      "filename": "cbs89_2-2021-06-23_T19.00.01.mp3023.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "emirimu",
+          "start_time": 0.12,
+          "duration": 0.76
+        },
+        {
+          "word": "nti",
+          "start_time": 1.48,
+          "duration": 0.24
+        },
+        {
+          "word": "abiveeko",
+          "start_time": 1.84,
+          "duration": 0.46
+        },
+        {
+          "word": "bayambe",
+          "start_time": 2.34,
+          "duration": 0.3
+        },
+        {
+          "word": "ku",
+          "start_time": 2.68,
+          "duration": 0.06
+        },
+        {
+          "word": "bazadde",
+          "start_time": 2.76,
+          "duration": 0.38
+        },
+        {
+          "word": "baabwe",
+          "start_time": 3.2,
+          "duration": 0.6
+        },
+        {
+          "word": "naddala",
+          "start_time": 3.86,
+          "duration": 0.32
+        },
+        {
+          "word": "okujjumbira",
+          "start_time": 4.22,
+          "duration": 0.68
+        },
+        {
+          "word": "okulima",
+          "start_time": 5.02,
+          "duration": 0.36
+        },
+        {
+          "word": "abasomera",
+          "start_time": 5.4,
+          "duration": 0.4
+        },
+        {
+          "word": "ku",
+          "start_time": 5.84,
+          "duration": 0.1
+        },
+        {
+          "word": "litasobola",
+          "start_time": 5.96,
+          "duration": 0.66
+        },
+        {
+          "word": "okuyita",
+          "start_time": 6.66,
+          "duration": 0.8
+        },
+        {
+          "word": "embeera",
+          "start_time": 7.62,
+          "duration": 0.52
+        },
+        {
+          "word": "eno",
+          "start_time": 8.32,
+          "duration": 0.46
+        },
+        {
+          "word": "oyogera",
+          "start_time": 8.86,
+          "duration": 0.34
+        },
+        {
+          "word": "abavubuka",
+          "start_time": 9.24,
+          "duration": 0.4
+        },
+        {
+          "word": "balaba",
+          "start_time": 9.68,
+          "duration": 0.3
+        }
+      ]
+    }
+  ]
+}

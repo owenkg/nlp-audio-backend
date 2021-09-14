@@ -1,67 +1,70 @@
 import json
+import os
+"""
 from app.models.tag import Tag
 from app.models.audiotag import AudioTag
 from app.models.audio import Audio
 from app.models.topic import Topic
 from app.schemas import TagInSchema
 from app.schemas import TopicSchema
+"""
 from flask_restful import Resource, request
 
+"""os.chdir("../../data")
+path = os.getcwd()"""
 
 class TagSearchView(Resource):
 
+    os.chdir(os.getcwd()+"/data/audios")
+
     # searches for particular tag(s) and returns all audios attached to it
     def post(self):
+        #os.chdir("/")
+        #print(os.getcwd())
+        path = os.getcwd()
+        #print(f"this path:{path}")
+
         data = request.get_json()
+
+        collection = []
+
+
 
         results = data["tag_name"]
 
         if (type(results) is list):
             # check whether tag is passed as one string or array
-            collection = []
+            all_data = dict(Tag = "", Audios=[], Start_time=[])
 
             for item in results:
 
                 name = item
 
-                tagschema = TagInSchema()
 
-                tag = Tag.find_first(tag_name=name)
+                #print(name)
+                for root, dir, file in os.walk("."):
+                    for filename in file:
+                        #print(filename)
 
-                if not tag:
-                    continue
+                        with open(filename, 'r') as infile:
+                             file_data = json.loads(infile.read())
 
-                all_data = {"Audios": [], "Audio_URLs": [], "Tag": ""}
+                        words = file_data['transcripts'][0]['words']
 
-                tdata = tag.transform
+                        for word in words:
+                            #print(word['word'])
+                            if word['word'] == name:
+                                #print(f"Word: { word['word'] }, Audio: { filename }, Start Time: { word['start_time']}")
+                                all_data["Tag"] = word['word']
+                                all_data["Audios"].append(filename)
+                                all_data["Start_time"].append(word['start_time'])
+                            else:
+                                continue
 
-                tag_id = tdata["id"]
-                tag_name = tdata["tag_name"]
-
-                all_data["Tag"] = tag_name
-
-                rel_audio_ids = AudioTag.find_all(tag_id=tag_id)
-
-                for value in range(len(rel_audio_ids)):
-
-                    value_dict = rel_audio_ids[value].transform
-
-                    audio_id = value_dict["audio_id"]
-
-                    audio_data = Audio.find_first(id=audio_id)
-
-                    audio_dict = audio_data.transform
-
-                    audio_name = audio_dict["audio_name"]
-                    audio_url = audio_dict["audio_url"]
-
-                    all_data["Audios"].append(audio_name)
-                    all_data["Audio_URLs"].append(audio_url)
-
-                collection.append(all_data)
+                    collection.append(all_data)
 
             if (len(collection) < 1):
-                return dict(status="fail", message=f"Tags {results} do not exist!"), 404
+                return dict(status="fail", message=f"no audios with {results} "), 404
             else:
                 return dict(status='success', data=collection), 200
 
@@ -69,40 +72,37 @@ class TagSearchView(Resource):
             #print("its not a list")
             name = data["tag_name"]
 
-            tagschema = TagInSchema()
+            #tagschema = TagInSchema()
 
-            tag = Tag.find_first(tag_name=name)
 
-            if not tag:
-                return dict(status="fail", message=f"Tag with name {name} does not exist!"), 404
 
-            all_data = {"Audios": [], "Audio_URLs": [], "Tag": ""}
-            tdata = tag.transform
+            for root, dir, file in os.walk("."):
+                for filename in file:
+                    print(filename)
 
-            tag_id = tdata["id"]
-            tag_name = tdata["tag_name"]
+                    with open(filename, 'r') as infile:
+                         file_data = json.loads(infile.read())
 
-            all_data["Tag"] = tag_name
+                    words = file_data['transcripts'][0]['words']
 
-            rel_audio_ids = AudioTag.find_all(tag_id=tag_id)
+                    for word in words:
+                        #print(word['word'])
+                        if word['word'] == name:
+                            #print(f"Word: { word['word'] }, Audio: { filename }, Start Time: { word['start_time']}")
+                            all_data["Audios"].append(filename)
+                            all_data["Start_time"].append(word['start_time'])
+                        else:
+                            continue
 
-            for value in range(len(rel_audio_ids)):
+            #tag = Tag.find_first(tag_name=name)
 
-                value_dict = rel_audio_ids[value].transform
+            #if not tag:
+            #    return dict(status="fail", message=f"Tag with name {name} does not exist!"), 404
 
-                audio_id = value_dict["audio_id"]
-
-                audio_data = Audio.find_first(id=audio_id)
-
-                audio_dict = audio_data.transform
-                audio_name = audio_dict["audio_name"]
-                audio_url = audio_dict["audio_url"]
-
-                all_data["Audios"].append(audio_name)
-                all_data["Audio_URLs"].append(audio_url)
-
-            return dict(status="success", data=all_data), 200
-
+            if len(all_data['Audios']) < 1:
+                return dict(status="fail", message=f"no audios with {name}"), 404
+            else:
+                return dict(status="success", data=all_data), 200
 
 class TopicSearchView(Resource):
 
@@ -116,156 +116,64 @@ class TopicSearchView(Resource):
             collection = []
 
             for item in results:
+
                 name = item
 
-                topic = Topic.find_first(topic_name=name)
+                for root, dir, file in os.walk("."):
+                    for filename in file:
+                        #print(filename)
 
-                if not topic:
-                    continue
+                        with open(filename, 'r') as infile:
+                             data = json.loads(infile.read())
 
-                all_data = {"Audios": [], "Audio_URLs": [], "Topic": ""}
-                tdata = topic.transform
+                        words = data['transcripts'][0]['words']
 
-                topic_id = tdata["id"]
-                topic_name = tdata["topic_name"]
+                        for word in words:
+                            #print(word['word'])
+                            if word['word'] == name:
+                                #print(f"Word: { word['word'] }, Audio: { filename }, Start Time: { word['start_time']}")
+                                all_data["Audios"].append(filename)
+                                all_data["Start_time"].append(word['start_time'])
+                            else:
+                                continue
 
-                all_data["Topic"] = topic_name
-
-                rel_tag_ids = Tag.find_all(topic_id=topic_id)
-
-                for tag in range(len(rel_tag_ids)):
-                    tag_value = rel_tag_ids[tag].transform
-                    tag_id = tag_value["id"]
-
-                    rel_audio_ids = AudioTag.find_all(tag_id=tag_id)
-
-                    if len(rel_audio_ids) == 1:
-                        # for one audio get individual audio details
-                        rel_audio = rel_audio_ids[0].transform
-
-                        audio_id = rel_audio["audio_id"]
-
-                        audio_data = Audio.find_first(id=audio_id)
-
-                        audio_dict = audio_data.transform
-
-                        audio_name = audio_dict["audio_name"]
-                        audio_url = audio_dict["audio_url"]
-
-                        all_data["Audios"].append(audio_name)
-                        all_data["Audio_URLs"].append(audio_url)
-
-                    elif len(rel_audio_ids) > 1:
-                        # for more than one audio get individual audio details
-                        for audio in range(len(rel_audio_ids)):
-                            rel_audio = rel_audio_ids[audio].transform
-
-                            audio_id = rel_audio["audio_id"]
-
-                            audio_data = Audio.find_first(id=audio_id)
-
-                            audio_dict = audio_data.transform
-
-                            audio_name = audio_dict["audio_name"]
-                            audio_url = audio_dict["audio_url"]
-
-                            all_data["Audios"].append(audio_name)
-                            all_data["Audio_URLs"].append(audio_url)
-
-                    else:
-                        # if tags have no audios attached
-
-                        continue
-
-                seen_audio = set()
-                unique_audio = []
-
-                for x in range(len(all_data["Audios"])):
-                    # to filter for repeated audios since each tag is represented by an audio
-                    if all_data["Audios"][x] not in seen_audio:
-                        unique_audio.append(all_data["Audios"][x])
-                        seen_audio.add(all_data["Audios"][x])
-
-                # update list after removing duplicate audios
-                all_data["Audios"] = unique_audio
                 collection.append(all_data)
+
             if (len(collection) < 1):
-                return dict(status="fail", message=f"Topics {results} do not exist!"), 404
+                return dict(status="fail", message=f"no under topics {results} "), 404
             else:
                 return dict(status='success', data=collection), 200
 
         else:
+            #print("its not a list")
             name = data["topic_name"]
 
-            topic = Topic.find_first(topic_name=name)
+            #tagschema = TagInSchema()
 
-            if not topic:
-                return dict(status="fail", message=f"Topic with name {name} does not exist!"), 404
+            for root, dir, file in os.walk("."):
+                for filename in file:
+                    #print(filename)
 
-            all_data = {"Audios": [], "Audio_URLs": [], "Topic": ""}
-            tdata = topic.transform
+                    with open(filename, 'r') as infile:
+                         data = json.loads(infile.read())
 
-            topic_id = tdata["id"]
-            topic_name = tdata["topic_name"]
+                    words = data['transcripts'][0]['words']
 
-            all_data["Topic"] = topic_name
+                    for word in words:
+                        #print(word['word'])
+                        if word['word'] == name:
+                            print(f"Word: { word['word'] }, Audio: { filename }, Start Time: { word['start_time']}")
+                            all_data["Audios"].append(filename)
+                            all_data["Start_time"].append(word['start_time'])
+                        else:
+                            continue
 
-            rel_tag_ids = Tag.find_all(topic_id=topic_id)
+            #tag = Tag.find_first(tag_name=name)
 
-            for tag in range(len(rel_tag_ids)):
-                tag_value = rel_tag_ids[tag].transform
-                tag_id = tag_value["id"]
+            #if not tag:
+            #    return dict(status="fail", message=f"Tag with name {name} does not exist!"), 404
 
-                rel_audio_ids = AudioTag.find_all(tag_id=tag_id)
-
-                if len(rel_audio_ids) == 1:
-                    # for one audio get individual audio details
-                    rel_audio = rel_audio_ids[0].transform
-
-                    audio_id = rel_audio["audio_id"]
-
-                    audio_data = Audio.find_first(id=audio_id)
-
-                    audio_dict = audio_data.transform
-
-                    audio_name = audio_dict["audio_name"]
-                    audio_url = audio_dict["audio_url"]
-
-                    all_data["Audios"].append(audio_name)
-                    all_data["Audio_URLs"].append(audio_url)
-
-                elif len(rel_audio_ids) > 1:
-                    # for more than one audio get individual audio details
-                    for audio in range(len(rel_audio_ids)):
-                        rel_audio = rel_audio_ids[audio].transform
-
-                        audio_id = rel_audio["audio_id"]
-
-                        audio_data = Audio.find_first(id=audio_id)
-
-                        audio_dict = audio_data.transform
-
-                        audio_name = audio_dict["audio_name"]
-                        audio_url = audio_dict["audio_url"]
-
-                        all_data["Audios"].append(audio_name)
-                        all_data["Audio_URLs"].append(audio_url)
-
-                else:
-                    # if tags have no audios attached
-
-                    continue
-
-            seen_audio = set()
-            unique_audio = []
-
-            for x in range(len(all_data["Audios"])):
-                # to filter for repeated audios since each tag is represented by an audio
-                if all_data["Audios"][x] not in seen_audio:
-                    unique_audio.append(all_data["Audios"][x])
-                    seen_audio.add(all_data["Audios"][x])
-
-            # update list after removing duplicate audios
-            all_data["Audios"] = unique_audio
-
-            return dict(status='success', data=all_data), 200
+            if len(all_data['Audios']) < 1:
+                return dict(status="fail", message=f"no audios with {name}"), 404
+            else:
+                return dict(status="success", data=all_data), 200

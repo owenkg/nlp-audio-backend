@@ -1,0 +1,103 @@
+{
+  "transcripts": [
+    {
+      "confidence": -289.0649108886719,
+      "date": "2021-06-21",
+      "time": "20.00",
+      "filename": "bd_95_5-2021-06-21_T20.00.01.mp3099.wav",
+      "radio_station": "bd_95_5",
+      "words": [
+        {
+          "word": "ebikumi",
+          "start_time": 0.08,
+          "duration": 0.36
+        },
+        {
+          "word": "bibiri",
+          "start_time": 0.48,
+          "duration": 0.28
+        },
+        {
+          "word": "mu",
+          "start_time": 0.98,
+          "duration": 0.04
+        },
+        {
+          "word": "butuufu",
+          "start_time": 1.04,
+          "duration": 0.26
+        },
+        {
+          "word": "iradi",
+          "start_time": 1.46,
+          "duration": 0.46
+        },
+        {
+          "word": "ne",
+          "start_time": 1.98,
+          "duration": 0.1
+        },
+        {
+          "word": "bateekawo",
+          "start_time": 2.1,
+          "duration": 0.62
+        },
+        {
+          "word": "ne",
+          "start_time": 2.76,
+          "duration": 0.08
+        },
+        {
+          "word": "ssaazi",
+          "start_time": 2.88,
+          "duration": 1.48
+        },
+        {
+          "word": "ateekateeka",
+          "start_time": 4.56,
+          "duration": 0.7
+        },
+        {
+          "word": "wo",
+          "start_time": 5.28,
+          "duration": 0.06
+        },
+        {
+          "word": "abakuuma",
+          "start_time": 5.46,
+          "duration": 0.6
+        },
+        {
+          "word": "nakawa",
+          "start_time": 6.1,
+          "duration": 1.04
+        },
+        {
+          "word": "osooka",
+          "start_time": 7.24,
+          "duration": 0.36
+        },
+        {
+          "word": "kubala",
+          "start_time": 7.64,
+          "duration": 0.36
+        },
+        {
+          "word": "mask",
+          "start_time": 8.04,
+          "duration": 0.36
+        },
+        {
+          "word": "you",
+          "start_time": 8.5,
+          "duration": 0.5
+        },
+        {
+          "word": "nnaabanga",
+          "start_time": 9.04,
+          "duration": 0.76
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "transcripts": [
+    {
+      "confidence": -265.2535095214844,
+      "date": "2021-06-23",
+      "time": "20.00",
+      "filename": "cbs89_2-2021-06-23_T20.00.01.mp3088.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "amaka",
+          "start_time": 0.1,
+          "duration": 0.4
+        },
+        {
+          "word": "district",
+          "start_time": 0.54,
+          "duration": 0.32
+        },
+        {
+          "word": "tubadde",
+          "start_time": 0.88,
+          "duration": 0.36
+        },
+        {
+          "word": "sente",
+          "start_time": 1.26,
+          "duration": 0.2
+        },
+        {
+          "word": "za",
+          "start_time": 1.5,
+          "duration": 0.08
+        },
+        {
+          "word": "muzindo",
+          "start_time": 1.6,
+          "duration": 0.38
+        },
+        {
+          "word": "okuba",
+          "start_time": 2.0,
+          "duration": 0.58
+        },
+        {
+          "word": "sente",
+          "start_time": 2.84,
+          "duration": 0.22
+        },
+        {
+          "word": "ze",
+          "start_time": 3.08,
+          "duration": 0.08
+        },
+        {
+          "word": "tuyisizza",
+          "start_time": 3.18,
+          "duration": 0.74
+        },
+        {
+          "word": "obutabalika",
+          "start_time": 4.02,
+          "duration": 1.26
+        },
+        {
+          "word": "buna",
+          "start_time": 5.38,
+          "duration": 0.5
+        },
+        {
+          "word": "ne",
+          "start_time": 5.94,
+          "duration": 0.1
+        },
+        {
+          "word": "million",
+          "start_time": 6.06,
+          "duration": 0.28
+        },
+        {
+          "word": "tusanze",
+          "start_time": 6.42,
+          "duration": 0.64
+        },
+        {
+          "word": "million",
+          "start_time": 7.1,
+          "duration": 0.34
+        },
+        {
+          "word": "enkumi",
+          "start_time": 7.48,
+          "duration": 0.26
+        },
+        {
+          "word": "nnya",
+          "start_time": 7.76,
+          "duration": 0.12
+        },
+        {
+          "word": "mu",
+          "start_time": 7.92,
+          "duration": 0.06
+        },
+        {
+          "word": "lusanvu",
+          "start_time": 8.0,
+          "duration": 0.36
+        },
+        {
+          "word": "mwe",
+          "start_time": 8.4,
+          "duration": 0.08
+        },
+        {
+          "word": "mubadde",
+          "start_time": 8.52,
+          "duration": 0.24
+        },
+        {
+          "word": "mulina",
+          "start_time": 8.78,
+          "duration": 0.2
+        },
+        {
+          "word": "kufunako",
+          "start_time": 9.02,
+          "duration": 0.34
+        },
+        {
+          "word": "bubi",
+          "start_time": 9.42,
+          "duration": 0.28
+        },
+        {
+          "word": "bibiri",
+          "start_time": 9.74,
+          "duration": 0.24
+        }
+      ]
+    }
+  ]
+}

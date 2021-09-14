@@ -1,0 +1,63 @@
+{
+  "transcripts": [
+    {
+      "confidence": -233.64768981933594,
+      "date": "2021-06-21",
+      "time": "11.00",
+      "filename": "nm_93_9-2021-06-21_T11.00.01 (5).mp3157.wav",
+      "radio_station": "nm_93_9",
+      "words": [
+        {
+          "word": "aba",
+          "start_time": 0.2,
+          "duration": 0.18
+        },
+        {
+          "word": "abazadde",
+          "start_time": 0.48,
+          "duration": 0.76
+        },
+        {
+          "word": "batadde",
+          "start_time": 2.78,
+          "duration": 0.6
+        },
+        {
+          "word": "mu",
+          "start_time": 3.62,
+          "duration": 0.14
+        },
+        {
+          "word": "binaisa",
+          "start_time": 3.8,
+          "duration": 0.44
+        },
+        {
+          "word": "bamugamba",
+          "start_time": 4.26,
+          "duration": 2.76
+        },
+        {
+          "word": "ate",
+          "start_time": 7.18,
+          "duration": 0.2
+        },
+        {
+          "word": "e",
+          "start_time": 7.6,
+          "duration": 0.18
+        },
+        {
+          "word": "tekaawulamu",
+          "start_time": 7.8,
+          "duration": 1.78
+        },
+        {
+          "word": "seven",
+          "start_time": 9.6,
+          "duration": 0.26
+        }
+      ]
+    }
+  ]
+}

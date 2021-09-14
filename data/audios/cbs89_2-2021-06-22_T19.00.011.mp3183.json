@@ -1,0 +1,133 @@
+{
+  "transcripts": [
+    {
+      "confidence": -190.9033966064453,
+      "date": "2021-06-22",
+      "time": "19.00",
+      "filename": "cbs89_2-2021-06-22_T19.00.011.mp3183.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "awo",
+          "start_time": 0.22,
+          "duration": 0.08
+        },
+        {
+          "word": "ne",
+          "start_time": 0.32,
+          "duration": 0.06
+        },
+        {
+          "word": "basanga",
+          "start_time": 0.4,
+          "duration": 0.3
+        },
+        {
+          "word": "nga",
+          "start_time": 0.72,
+          "duration": 0.08
+        },
+        {
+          "word": "bali",
+          "start_time": 0.82,
+          "duration": 0.18
+        },
+        {
+          "word": "waka",
+          "start_time": 1.02,
+          "duration": 0.82
+        },
+        {
+          "word": "bagamba",
+          "start_time": 1.9,
+          "duration": 0.32
+        },
+        {
+          "word": "nti",
+          "start_time": 2.26,
+          "duration": 0.06
+        },
+        {
+          "word": "sente",
+          "start_time": 2.36,
+          "duration": 0.22
+        },
+        {
+          "word": "bazirika",
+          "start_time": 2.6,
+          "duration": 0.36
+        },
+        {
+          "word": "mu",
+          "start_time": 3.0,
+          "duration": 0.04
+        },
+        {
+          "word": "maduuka",
+          "start_time": 3.06,
+          "duration": 0.88
+        },
+        {
+          "word": "tebakyasobola",
+          "start_time": 4.0,
+          "duration": 0.5
+        },
+        {
+          "word": "kuzisinga",
+          "start_time": 4.54,
+          "duration": 0.74
+        },
+        {
+          "word": "ku",
+          "start_time": 5.32,
+          "duration": 0.1
+        },
+        {
+          "word": "gye",
+          "start_time": 5.44,
+          "duration": 0.18
+        },
+        {
+          "word": "kugula",
+          "start_time": 5.64,
+          "duration": 0.3
+        },
+        {
+          "word": "mmere",
+          "start_time": 5.98,
+          "duration": 0.62
+        },
+        {
+          "word": "ebizibu",
+          "start_time": 6.78,
+          "duration": 0.3
+        },
+        {
+          "word": "ebiringa",
+          "start_time": 7.1,
+          "duration": 0.42
+        },
+        {
+          "word": "ebyo",
+          "start_time": 7.56,
+          "duration": 0.84
+        },
+        {
+          "word": "sabaminister",
+          "start_time": 8.46,
+          "duration": 0.54
+        },
+        {
+          "word": "omujja",
+          "start_time": 9.04,
+          "duration": 0.64
+        },
+        {
+          "word": "robina",
+          "start_time": 9.78,
+          "duration": 0.2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "transcripts": [
+    {
+      "confidence": -102.98316955566406,
+      "date": "2021-06-22",
+      "time": "19.00",
+      "filename": "cbs89_2-2021-06-22_T19.00.011.mp3095.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "ku",
+          "start_time": 0.06,
+          "duration": 0.32
+        },
+        {
+          "word": "abafiiriddwa",
+          "start_time": 0.42,
+          "duration": 0.66
+        },
+        {
+          "word": "abantu",
+          "start_time": 1.12,
+          "duration": 0.34
+        },
+        {
+          "word": "baabwe",
+          "start_time": 1.52,
+          "duration": 0.3
+        },
+        {
+          "word": "bonna",
+          "start_time": 1.88,
+          "duration": 0.4
+        },
+        {
+          "word": "bonna",
+          "start_time": 2.32,
+          "duration": 1.42
+        },
+        {
+          "word": "naddala",
+          "start_time": 3.78,
+          "duration": 0.38
+        },
+        {
+          "word": "ekirwadde",
+          "start_time": 4.18,
+          "duration": 0.4
+        },
+        {
+          "word": "kino",
+          "start_time": 4.62,
+          "duration": 0.22
+        },
+        {
+          "word": "ekya",
+          "start_time": 4.88,
+          "duration": 0.26
+        },
+        {
+          "word": "covid",
+          "start_time": 5.2,
+          "duration": 1.26
+        },
+        {
+          "word": "era",
+          "start_time": 6.56,
+          "duration": 0.14
+        },
+        {
+          "word": "ne",
+          "start_time": 6.74,
+          "duration": 0.14
+        },
+        {
+          "word": "waffe",
+          "start_time": 6.9,
+          "duration": 0.28
+        },
+        {
+          "word": "abantu",
+          "start_time": 7.22,
+          "duration": 0.24
+        },
+        {
+          "word": "bangi",
+          "start_time": 7.52,
+          "duration": 0.3
+        },
+        {
+          "word": "bafudde",
+          "start_time": 7.86,
+          "duration": 1.3
+        },
+        {
+          "word": "muganda",
+          "start_time": 9.22,
+          "duration": 0.34
+        },
+        {
+          "word": "wange",
+          "start_time": 9.58,
+          "duration": 0.18
+        },
+        {
+          "word": "na",
+          "start_time": 9.88,
+          "duration": 0.06
+        }
+      ]
+    }
+  ]
+}

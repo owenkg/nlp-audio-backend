@@ -1,0 +1,128 @@
+{
+  "transcripts": [
+    {
+      "confidence": -238.572021484375,
+      "date": "2021-06-21",
+      "time": "20.00",
+      "filename": "bd_95_5-2021-06-21_T20.00.01.mp3097.wav",
+      "radio_station": "bd_95_5",
+      "words": [
+        {
+          "word": "mu",
+          "start_time": 0.26,
+          "duration": 0.1
+        },
+        {
+          "word": "kibuga",
+          "start_time": 0.4,
+          "duration": 0.28
+        },
+        {
+          "word": "masaka",
+          "start_time": 0.7,
+          "duration": 0.5
+        },
+        {
+          "word": "mu",
+          "start_time": 1.3,
+          "duration": 0.34
+        },
+        {
+          "word": "basobodde",
+          "start_time": 1.68,
+          "duration": 0.46
+        },
+        {
+          "word": "okuba",
+          "start_time": 2.18,
+          "duration": 0.22
+        },
+        {
+          "word": "nga",
+          "start_time": 2.42,
+          "duration": 0.1
+        },
+        {
+          "word": "baagala",
+          "start_time": 2.56,
+          "duration": 0.8
+        },
+        {
+          "word": "nga",
+          "start_time": 3.44,
+          "duration": 0.08
+        },
+        {
+          "word": "bagamba",
+          "start_time": 3.56,
+          "duration": 0.34
+        },
+        {
+          "word": "baagala",
+          "start_time": 3.96,
+          "duration": 0.4
+        },
+        {
+          "word": "kikopo",
+          "start_time": 4.38,
+          "duration": 0.4
+        },
+        {
+          "word": "kye",
+          "start_time": 4.82,
+          "duration": 0.2
+        },
+        {
+          "word": "kampala",
+          "start_time": 5.04,
+          "duration": 0.44
+        },
+        {
+          "word": "bagamba",
+          "start_time": 5.64,
+          "duration": 0.66
+        },
+        {
+          "word": "abaalabika",
+          "start_time": 6.42,
+          "duration": 0.62
+        },
+        {
+          "word": "oba",
+          "start_time": 7.08,
+          "duration": 0.1
+        },
+        {
+          "word": "byonokola",
+          "start_time": 7.22,
+          "duration": 0.88
+        },
+        {
+          "word": "eggwanga",
+          "start_time": 8.12,
+          "duration": 0.36
+        },
+        {
+          "word": "nti",
+          "start_time": 8.54,
+          "duration": 0.1
+        },
+        {
+          "word": "baagala",
+          "start_time": 8.68,
+          "duration": 0.4
+        },
+        {
+          "word": "kikulu",
+          "start_time": 9.1,
+          "duration": 0.26
+        },
+        {
+          "word": "bokka",
+          "start_time": 9.4,
+          "duration": 0.36
+        }
+      ]
+    }
+  ]
+}

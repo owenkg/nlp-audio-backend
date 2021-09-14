@@ -1,0 +1,123 @@
+{
+  "transcripts": [
+    {
+      "confidence": -167.95664978027344,
+      "date": "2021-06-21",
+      "time": "20.00",
+      "filename": "bd_95_5-2021-06-21_T20.00.01.mp3146.wav",
+      "radio_station": "bd_95_5",
+      "words": [
+        {
+          "word": "okunaaba",
+          "start_time": 0.12,
+          "duration": 0.58
+        },
+        {
+          "word": "nakumanya",
+          "start_time": 0.72,
+          "duration": 0.78
+        },
+        {
+          "word": "goberera",
+          "start_time": 1.6,
+          "duration": 0.46
+        },
+        {
+          "word": "ebiragiro",
+          "start_time": 2.16,
+          "duration": 0.34
+        },
+        {
+          "word": "ebyateekebwawo",
+          "start_time": 2.54,
+          "duration": 0.96
+        },
+        {
+          "word": "okuziyiza",
+          "start_time": 3.62,
+          "duration": 0.44
+        },
+        {
+          "word": "okusasaana",
+          "start_time": 4.08,
+          "duration": 0.42
+        },
+        {
+          "word": "kwekirwadde",
+          "start_time": 4.54,
+          "duration": 0.42
+        },
+        {
+          "word": "kino",
+          "start_time": 4.98,
+          "duration": 0.28
+        },
+        {
+          "word": "kumi",
+          "start_time": 5.3,
+          "duration": 0.28
+        },
+        {
+          "word": "kubanga",
+          "start_time": 5.62,
+          "duration": 0.3
+        },
+        {
+          "word": "waakiri",
+          "start_time": 5.98,
+          "duration": 0.4
+        },
+        {
+          "word": "mmita",
+          "start_time": 6.4,
+          "duration": 0.26
+        },
+        {
+          "word": "bbiri",
+          "start_time": 6.72,
+          "duration": 0.4
+        },
+        {
+          "word": "okuva",
+          "start_time": 7.24,
+          "duration": 0.24
+        },
+        {
+          "word": "ku",
+          "start_time": 7.5,
+          "duration": 0.08
+        },
+        {
+          "word": "bantu",
+          "start_time": 7.62,
+          "duration": 0.2
+        },
+        {
+          "word": "abalala",
+          "start_time": 7.86,
+          "duration": 0.52
+        },
+        {
+          "word": "wewale",
+          "start_time": 8.48,
+          "duration": 0.28
+        },
+        {
+          "word": "ebifo",
+          "start_time": 8.8,
+          "duration": 0.22
+        },
+        {
+          "word": "ebirimu",
+          "start_time": 9.04,
+          "duration": 0.26
+        },
+        {
+          "word": "omujjuzo",
+          "start_time": 9.34,
+          "duration": 0.42
+        }
+      ]
+    }
+  ]
+}

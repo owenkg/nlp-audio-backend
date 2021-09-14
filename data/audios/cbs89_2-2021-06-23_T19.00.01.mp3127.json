@@ -1,0 +1,113 @@
+{
+  "transcripts": [
+    {
+      "confidence": -146.99911499023438,
+      "date": "2021-06-23",
+      "time": "19.00",
+      "filename": "cbs89_2-2021-06-23_T19.00.01.mp3127.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "nsaba",
+          "start_time": 0.28,
+          "duration": 0.52
+        },
+        {
+          "word": "okugamba",
+          "start_time": 0.92,
+          "duration": 0.38
+        },
+        {
+          "word": "mukulu",
+          "start_time": 1.32,
+          "duration": 0.26
+        },
+        {
+          "word": "edi",
+          "start_time": 1.74,
+          "duration": 0.48
+        },
+        {
+          "word": "nti",
+          "start_time": 2.44,
+          "duration": 1.38
+        },
+        {
+          "word": "tukkiriza",
+          "start_time": 3.86,
+          "duration": 0.48
+        },
+        {
+          "word": "nti",
+          "start_time": 4.38,
+          "duration": 0.44
+        },
+        {
+          "word": "okuva",
+          "start_time": 4.92,
+          "duration": 0.26
+        },
+        {
+          "word": "covid",
+          "start_time": 5.22,
+          "duration": 0.22
+        },
+        {
+          "word": "bwe",
+          "start_time": 5.48,
+          "duration": 0.1
+        },
+        {
+          "word": "yajja",
+          "start_time": 5.6,
+          "duration": 0.4
+        },
+        {
+          "word": "bingi",
+          "start_time": 6.06,
+          "duration": 0.24
+        },
+        {
+          "word": "bye",
+          "start_time": 6.32,
+          "duration": 0.18
+        },
+        {
+          "word": "ebikoleddwa",
+          "start_time": 6.56,
+          "duration": 0.86
+        },
+        {
+          "word": "era",
+          "start_time": 7.52,
+          "duration": 0.14
+        },
+        {
+          "word": "obulwadde",
+          "start_time": 7.68,
+          "duration": 1.34
+        },
+        {
+          "word": "bingi",
+          "start_time": 9.14,
+          "duration": 0.2
+        },
+        {
+          "word": "ebituuse",
+          "start_time": 9.38,
+          "duration": 0.34
+        },
+        {
+          "word": "mu",
+          "start_time": 9.76,
+          "duration": 0.08
+        },
+        {
+          "word": "mwaka",
+          "start_time": 9.86,
+          "duration": 0.12
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "transcripts": [
+    {
+      "confidence": -356.858154296875,
+      "date": "2021-06-21",
+      "time": "19.00",
+      "filename": "bd_95_5-2021-06-21_T19.00.01.mp3325.wav",
+      "radio_station": "bd_95_5",
+      "words": [
+        {
+          "word": "mu",
+          "start_time": 0.14,
+          "duration": 0.18
+        },
+        {
+          "word": "ataano",
+          "start_time": 0.38,
+          "duration": 0.18
+        },
+        {
+          "word": "mu",
+          "start_time": 0.58,
+          "duration": 0.04
+        },
+        {
+          "word": "amafumu",
+          "start_time": 0.66,
+          "duration": 0.56
+        },
+        {
+          "word": "bbiri",
+          "start_time": 1.26,
+          "duration": 0.18
+        },
+        {
+          "word": "abiri",
+          "start_time": 1.46,
+          "duration": 0.18
+        },
+        {
+          "word": "mu",
+          "start_time": 1.66,
+          "duration": 0.04
+        },
+        {
+          "word": "munaana",
+          "start_time": 1.72,
+          "duration": 0.42
+        },
+        {
+          "word": "nga",
+          "start_time": 2.46,
+          "duration": 0.08
+        },
+        {
+          "word": "gino",
+          "start_time": 2.6,
+          "duration": 0.22
+        },
+        {
+          "word": "musanvu",
+          "start_time": 2.84,
+          "duration": 0.26
+        },
+        {
+          "word": "butaano",
+          "start_time": 3.14,
+          "duration": 0.26
+        },
+        {
+          "word": "buli",
+          "start_time": 3.52,
+          "duration": 0.22
+        },
+        {
+          "word": "yennaakyawa",
+          "start_time": 3.82,
+          "duration": 1.08
+        },
+        {
+          "word": "ttaano",
+          "start_time": 4.96,
+          "duration": 0.2
+        },
+        {
+          "word": "ttaano",
+          "start_time": 5.22,
+          "duration": 0.52
+        },
+        {
+          "word": "atadde",
+          "start_time": 5.94,
+          "duration": 0.64
+        },
+        {
+          "word": "akaamuli",
+          "start_time": 6.7,
+          "duration": 0.72
+        },
+        {
+          "word": "ku",
+          "start_time": 7.44,
+          "duration": 0.08
+        },
+        {
+          "word": "radio",
+          "start_time": 7.54,
+          "duration": 0.24
+        },
+        {
+          "word": "buddu",
+          "start_time": 7.82,
+          "duration": 0.24
+        },
+        {
+          "word": "owuliriza",
+          "start_time": 8.12,
+          "duration": 0.44
+        },
+        {
+          "word": "essaawa",
+          "start_time": 8.6,
+          "duration": 0.36
+        },
+        {
+          "word": "zino",
+          "start_time": 9.0,
+          "duration": 0.22
+        },
+        {
+          "word": "and",
+          "start_time": 9.34,
+          "duration": 0.2
+        },
+        {
+          "word": "munne",
+          "start_time": 9.56,
+          "duration": 0.26
+        }
+      ]
+    }
+  ]
+}

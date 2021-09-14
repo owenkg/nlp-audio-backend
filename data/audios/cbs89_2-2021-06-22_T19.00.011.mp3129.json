@@ -1,0 +1,93 @@
+{
+  "transcripts": [
+    {
+      "confidence": -183.5453643798828,
+      "date": "2021-06-22",
+      "time": "19.00",
+      "filename": "cbs89_2-2021-06-22_T19.00.011.mp3129.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "ssente",
+          "start_time": 0.04,
+          "duration": 0.2
+        },
+        {
+          "word": "zebakungaanya",
+          "start_time": 0.3,
+          "duration": 0.7
+        },
+        {
+          "word": "omulundi",
+          "start_time": 1.02,
+          "duration": 0.36
+        },
+        {
+          "word": "gumu",
+          "start_time": 1.4,
+          "duration": 0.32
+        },
+        {
+          "word": "buli",
+          "start_time": 1.9,
+          "duration": 0.9
+        },
+        {
+          "word": "lockdown",
+          "start_time": 2.94,
+          "duration": 0.54
+        },
+        {
+          "word": "eyasooka",
+          "start_time": 3.52,
+          "duration": 0.5
+        },
+        {
+          "word": "nzikiriza",
+          "start_time": 4.18,
+          "duration": 0.54
+        },
+        {
+          "word": "nti",
+          "start_time": 4.76,
+          "duration": 0.12
+        },
+        {
+          "word": "zikyaliwo",
+          "start_time": 4.92,
+          "duration": 1.18
+        },
+        {
+          "word": "kuba",
+          "start_time": 6.14,
+          "duration": 0.2
+        },
+        {
+          "word": "tezikula",
+          "start_time": 6.38,
+          "duration": 0.7
+        },
+        {
+          "word": "kalina",
+          "start_time": 7.12,
+          "duration": 0.56
+        },
+        {
+          "word": "kola",
+          "start_time": 7.72,
+          "duration": 1.18
+        },
+        {
+          "word": "bandibadde",
+          "start_time": 9.0,
+          "duration": 0.46
+        },
+        {
+          "word": "bazijja",
+          "start_time": 9.5,
+          "duration": 0.44
+        }
+      ]
+    }
+  ]
+}

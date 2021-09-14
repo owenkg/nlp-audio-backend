@@ -1,0 +1,103 @@
+{
+  "transcripts": [
+    {
+      "confidence": -257.48297119140625,
+      "date": "2021-06-21",
+      "time": "11.00",
+      "filename": "nm_93_9-2021-06-21_T11.00.147.wav",
+      "radio_station": "nm_93_9",
+      "words": [
+        {
+          "word": "wadde",
+          "start_time": 0.16,
+          "duration": 0.2
+        },
+        {
+          "word": "government",
+          "start_time": 0.4,
+          "duration": 0.4
+        },
+        {
+          "word": "tebasasulwa",
+          "start_time": 0.84,
+          "duration": 0.56
+        },
+        {
+          "word": "obulangibwa",
+          "start_time": 1.44,
+          "duration": 0.42
+        },
+        {
+          "word": "covid",
+          "start_time": 1.9,
+          "duration": 0.78
+        },
+        {
+          "word": "esazeewo",
+          "start_time": 2.9,
+          "duration": 0.42
+        },
+        {
+          "word": "mukkiriza",
+          "start_time": 3.34,
+          "duration": 0.56
+        },
+        {
+          "word": "abantu",
+          "start_time": 3.94,
+          "duration": 0.44
+        },
+        {
+          "word": "ba",
+          "start_time": 4.42,
+          "duration": 0.1
+        },
+        {
+          "word": "balaki",
+          "start_time": 4.54,
+          "duration": 0.7
+        },
+        {
+          "word": "era",
+          "start_time": 5.34,
+          "duration": 0.1
+        },
+        {
+          "word": "njagala",
+          "start_time": 5.46,
+          "duration": 0.36
+        },
+        {
+          "word": "okulaba",
+          "start_time": 5.86,
+          "duration": 0.52
+        },
+        {
+          "word": "abaamawulire",
+          "start_time": 6.5,
+          "duration": 0.78
+        },
+        {
+          "word": "okusingira",
+          "start_time": 7.3,
+          "duration": 0.48
+        },
+        {
+          "word": "ddala",
+          "start_time": 7.82,
+          "duration": 0.22
+        },
+        {
+          "word": "nga",
+          "start_time": 8.06,
+          "duration": 0.1
+        },
+        {
+          "word": "bambala",
+          "start_time": 8.18,
+          "duration": 1.22
+        }
+      ]
+    }
+  ]
+}

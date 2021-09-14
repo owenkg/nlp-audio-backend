@@ -1,0 +1,83 @@
+{
+  "transcripts": [
+    {
+      "confidence": -339.896484375,
+      "date": "2021-06-21",
+      "time": "20.00",
+      "filename": "bd_95_5-2021-06-21_T20.00.01.mp3316.wav",
+      "radio_station": "bd_95_5",
+      "words": [
+        {
+          "word": "kibooko",
+          "start_time": 0.12,
+          "duration": 0.58
+        },
+        {
+          "word": "kyagala",
+          "start_time": 0.74,
+          "duration": 0.28
+        },
+        {
+          "word": "yaakukyalira",
+          "start_time": 1.08,
+          "duration": 0.74
+        },
+        {
+          "word": "kirungi",
+          "start_time": 1.86,
+          "duration": 0.6
+        },
+        {
+          "word": "era",
+          "start_time": 2.54,
+          "duration": 0.12
+        },
+        {
+          "word": "nabasaba",
+          "start_time": 2.68,
+          "duration": 0.48
+        },
+        {
+          "word": "bulibeera",
+          "start_time": 3.2,
+          "duration": 0.44
+        },
+        {
+          "word": "yona",
+          "start_time": 3.68,
+          "duration": 0.42
+        },
+        {
+          "word": "bikwataganira",
+          "start_time": 4.16,
+          "duration": 1.6
+        },
+        {
+          "word": "giro",
+          "start_time": 5.8,
+          "duration": 0.14
+        },
+        {
+          "word": "bateekeddwa",
+          "start_time": 5.98,
+          "duration": 0.6
+        },
+        {
+          "word": "government",
+          "start_time": 6.6,
+          "duration": 0.6
+        },
+        {
+          "word": "anaabanga",
+          "start_time": 7.3,
+          "duration": 2.36
+        },
+        {
+          "word": "bwe",
+          "start_time": 9.7,
+          "duration": 0.08
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "transcripts": [
+    {
+      "confidence": -177.513916015625,
+      "date": "2021-06-22",
+      "time": "19.00",
+      "filename": "cbs89_2-2021-06-22_T19.00.011.mp3128.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "enzikiriza",
+          "start_time": 0.22,
+          "duration": 0.52
+        },
+        {
+          "word": "nti",
+          "start_time": 0.78,
+          "duration": 0.12
+        },
+        {
+          "word": "ze",
+          "start_time": 0.94,
+          "duration": 0.12
+        },
+        {
+          "word": "bazina",
+          "start_time": 1.12,
+          "duration": 0.46
+        },
+        {
+          "word": "eziziga",
+          "start_time": 1.6,
+          "duration": 0.92
+        },
+        {
+          "word": "bira",
+          "start_time": 2.54,
+          "duration": 0.22
+        },
+        {
+          "word": "abantu",
+          "start_time": 2.8,
+          "duration": 0.28
+        },
+        {
+          "word": "bonna",
+          "start_time": 3.14,
+          "duration": 0.68
+        },
+        {
+          "word": "amalwaliro",
+          "start_time": 3.9,
+          "duration": 0.5
+        },
+        {
+          "word": "gonna",
+          "start_time": 4.46,
+          "duration": 0.72
+        },
+        {
+          "word": "agenda",
+          "start_time": 5.3,
+          "duration": 0.42
+        },
+        {
+          "word": "okukola",
+          "start_time": 5.76,
+          "duration": 0.24
+        },
+        {
+          "word": "ku",
+          "start_time": 6.04,
+          "duration": 0.08
+        },
+        {
+          "word": "bya",
+          "start_time": 6.14,
+          "duration": 0.14
+        },
+        {
+          "word": "covid",
+          "start_time": 6.34,
+          "duration": 1.14
+        },
+        {
+          "word": "atenga",
+          "start_time": 7.62,
+          "duration": 0.4
+        },
+        {
+          "word": "amazina",
+          "start_time": 8.06,
+          "duration": 1.02
+        },
+        {
+          "word": "ekisooka",
+          "start_time": 9.3,
+          "duration": 0.62
+        }
+      ]
+    }
+  ]
+}

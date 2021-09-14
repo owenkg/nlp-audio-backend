@@ -1,0 +1,128 @@
+{
+  "transcripts": [
+    {
+      "confidence": -230.52708435058594,
+      "date": "2021-06-23",
+      "time": "19.00",
+      "filename": "cbs89_2-2021-06-23_T19.00.01.mp3137.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "naddala",
+          "start_time": 0.14,
+          "duration": 0.36
+        },
+        {
+          "word": "mu",
+          "start_time": 0.52,
+          "duration": 0.12
+        },
+        {
+          "word": "kyalo",
+          "start_time": 0.68,
+          "duration": 0.64
+        },
+        {
+          "word": "bagambye",
+          "start_time": 1.38,
+          "duration": 0.48
+        },
+        {
+          "word": "awo",
+          "start_time": 1.9,
+          "duration": 0.1
+        },
+        {
+          "word": "ekiwozi",
+          "start_time": 2.06,
+          "duration": 1.04
+        },
+        {
+          "word": "mu",
+          "start_time": 3.12,
+          "duration": 0.12
+        },
+        {
+          "word": "awo",
+          "start_time": 3.3,
+          "duration": 0.16
+        },
+        {
+          "word": "okutambula",
+          "start_time": 3.48,
+          "duration": 0.5
+        },
+        {
+          "word": "abantu",
+          "start_time": 4.08,
+          "duration": 0.26
+        },
+        {
+          "word": "okwambala",
+          "start_time": 4.44,
+          "duration": 0.46
+        },
+        {
+          "word": "mask",
+          "start_time": 4.94,
+          "duration": 0.32
+        },
+        {
+          "word": "ekyo",
+          "start_time": 5.3,
+          "duration": 0.1
+        },
+        {
+          "word": "kye",
+          "start_time": 5.44,
+          "duration": 0.08
+        },
+        {
+          "word": "tebanaba",
+          "start_time": 5.54,
+          "duration": 0.34
+        },
+        {
+          "word": "nakimanya",
+          "start_time": 5.92,
+          "duration": 0.44
+        },
+        {
+          "word": "tebannabalowoozaako",
+          "start_time": 6.4,
+          "duration": 1.76
+        },
+        {
+          "word": "okujjako",
+          "start_time": 8.3,
+          "duration": 0.46
+        },
+        {
+          "word": "abantu",
+          "start_time": 8.8,
+          "duration": 0.28
+        },
+        {
+          "word": "abawera",
+          "start_time": 9.12,
+          "duration": 0.32
+        },
+        {
+          "word": "ne",
+          "start_time": 9.46,
+          "duration": 0.06
+        },
+        {
+          "word": "bakola",
+          "start_time": 9.54,
+          "duration": 0.32
+        },
+        {
+          "word": "nga",
+          "start_time": 9.9,
+          "duration": 0.04
+        }
+      ]
+    }
+  ]
+}

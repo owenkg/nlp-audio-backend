@@ -1,0 +1,128 @@
+{
+  "transcripts": [
+    {
+      "confidence": -175.50253295898438,
+      "date": "2021-07-15",
+      "time": "12.00",
+      "filename": "cbs88_8-2021-07-15_T12.00.01.mp3160.wav",
+      "radio_station": "cbs88_8",
+      "words": [
+        {
+          "word": "nga",
+          "start_time": 1.42,
+          "duration": 0.1
+        },
+        {
+          "word": "tugoberera",
+          "start_time": 1.56,
+          "duration": 0.52
+        },
+        {
+          "word": "ebiragiro",
+          "start_time": 2.1,
+          "duration": 0.36
+        },
+        {
+          "word": "bye",
+          "start_time": 2.52,
+          "duration": 0.16
+        },
+        {
+          "word": "kitongole",
+          "start_time": 2.7,
+          "duration": 0.32
+        },
+        {
+          "word": "ky'eby'obulamu",
+          "start_time": 3.06,
+          "duration": 0.54
+        },
+        {
+          "word": "ku",
+          "start_time": 3.62,
+          "duration": 0.08
+        },
+        {
+          "word": "nsaasaana",
+          "start_time": 3.74,
+          "duration": 0.38
+        },
+        {
+          "word": "ekirwadde",
+          "start_time": 4.14,
+          "duration": 0.32
+        },
+        {
+          "word": "kya",
+          "start_time": 4.5,
+          "duration": 0.14
+        },
+        {
+          "word": "covid",
+          "start_time": 4.66,
+          "duration": 0.26
+        },
+        {
+          "word": "nineteen",
+          "start_time": 4.96,
+          "duration": 0.58
+        },
+        {
+          "word": "oba",
+          "start_time": 5.64,
+          "duration": 0.14
+        },
+        {
+          "word": "oli",
+          "start_time": 5.8,
+          "duration": 0.08
+        },
+        {
+          "word": "okwekumira",
+          "start_time": 5.9,
+          "duration": 0.6
+        },
+        {
+          "word": "awaka",
+          "start_time": 6.54,
+          "duration": 0.52
+        },
+        {
+          "word": "ebirango",
+          "start_time": 7.16,
+          "duration": 0.3
+        },
+        {
+          "word": "kisobola",
+          "start_time": 7.5,
+          "duration": 0.36
+        },
+        {
+          "word": "okuviirako",
+          "start_time": 7.88,
+          "duration": 0.54
+        },
+        {
+          "word": "etubidde",
+          "start_time": 8.48,
+          "duration": 0.38
+        },
+        {
+          "word": "wetuli",
+          "start_time": 8.88,
+          "duration": 0.42
+        },
+        {
+          "word": "munkola",
+          "start_time": 9.32,
+          "duration": 0.36
+        },
+        {
+          "word": "ya",
+          "start_time": 9.72,
+          "duration": 0.14
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "transcripts": [
+    {
+      "confidence": -192.91018676757812,
+      "date": "2021-06-23",
+      "time": "19.00",
+      "filename": "cbs89_2-2021-06-23_T19.00.01.mp3338.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "eneyisa",
+          "start_time": 0.16,
+          "duration": 0.44
+        },
+        {
+          "word": "obuwumbi",
+          "start_time": 0.64,
+          "duration": 0.32
+        },
+        {
+          "word": "kkumi",
+          "start_time": 1.04,
+          "duration": 0.8
+        },
+        {
+          "word": "ababaka",
+          "start_time": 1.92,
+          "duration": 0.22
+        },
+        {
+          "word": "ba",
+          "start_time": 2.16,
+          "duration": 0.08
+        },
+        {
+          "word": "parliament",
+          "start_time": 2.28,
+          "duration": 0.36
+        },
+        {
+          "word": "ne",
+          "start_time": 2.68,
+          "duration": 0.08
+        },
+        {
+          "word": "baba",
+          "start_time": 2.78,
+          "duration": 0.16
+        },
+        {
+          "word": "obukadde",
+          "start_time": 2.96,
+          "duration": 0.34
+        },
+        {
+          "word": "abiri",
+          "start_time": 3.34,
+          "duration": 0.22
+        },
+        {
+          "word": "abiri",
+          "start_time": 3.66,
+          "duration": 0.76
+        },
+        {
+          "word": "nti",
+          "start_time": 4.5,
+          "duration": 0.12
+        },
+        {
+          "word": "bagende",
+          "start_time": 4.66,
+          "duration": 1.14
+        },
+        {
+          "word": "basobole",
+          "start_time": 5.84,
+          "duration": 0.3
+        },
+        {
+          "word": "okusomesa",
+          "start_time": 6.16,
+          "duration": 0.44
+        },
+        {
+          "word": "abantu",
+          "start_time": 6.64,
+          "duration": 0.2
+        },
+        {
+          "word": "engeri",
+          "start_time": 6.88,
+          "duration": 0.16
+        },
+        {
+          "word": "gye",
+          "start_time": 7.06,
+          "duration": 0.08
+        },
+        {
+          "word": "banaamala",
+          "start_time": 7.16,
+          "duration": 0.4
+        },
+        {
+          "word": "mu",
+          "start_time": 7.6,
+          "duration": 0.06
+        },
+        {
+          "word": "mask",
+          "start_time": 7.68,
+          "duration": 0.76
+        },
+        {
+          "word": "masaka",
+          "start_time": 8.5,
+          "duration": 0.7
+        },
+        {
+          "word": "mu",
+          "start_time": 9.22,
+          "duration": 0.04
+        },
+        {
+          "word": "kalevu",
+          "start_time": 9.32,
+          "duration": 0.32
+        }
+      ]
+    }
+  ]
+}

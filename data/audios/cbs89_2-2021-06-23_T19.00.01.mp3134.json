@@ -1,0 +1,88 @@
+{
+  "transcripts": [
+    {
+      "confidence": -219.20175170898438,
+      "date": "2021-06-23",
+      "time": "19.00",
+      "filename": "cbs89_2-2021-06-23_T19.00.01.mp3134.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "alina",
+          "start_time": 0.98,
+          "duration": 0.32
+        },
+        {
+          "word": "somera",
+          "start_time": 1.34,
+          "duration": 0.38
+        },
+        {
+          "word": "awo",
+          "start_time": 1.76,
+          "duration": 0.18
+        },
+        {
+          "word": "kwayo",
+          "start_time": 2.0,
+          "duration": 0.88
+        },
+        {
+          "word": "masaka",
+          "start_time": 3.04,
+          "duration": 0.34
+        },
+        {
+          "word": "ne",
+          "start_time": 3.44,
+          "duration": 0.14
+        },
+        {
+          "word": "yafudde",
+          "start_time": 3.64,
+          "duration": 1.38
+        },
+        {
+          "word": "n'ekibuga",
+          "start_time": 5.08,
+          "duration": 0.42
+        },
+        {
+          "word": "byabakubi",
+          "start_time": 5.54,
+          "duration": 1.16
+        },
+        {
+          "word": "yabatuusa",
+          "start_time": 6.76,
+          "duration": 0.52
+        },
+        {
+          "word": "mulago",
+          "start_time": 7.3,
+          "duration": 0.3
+        },
+        {
+          "word": "nga",
+          "start_time": 7.64,
+          "duration": 0.1
+        },
+        {
+          "word": "ono",
+          "start_time": 7.9,
+          "duration": 0.94
+        },
+        {
+          "word": "gye",
+          "start_time": 8.86,
+          "duration": 0.14
+        },
+        {
+          "word": "taliwo",
+          "start_time": 9.08,
+          "duration": 0.44
+        }
+      ]
+    }
+  ]
+}

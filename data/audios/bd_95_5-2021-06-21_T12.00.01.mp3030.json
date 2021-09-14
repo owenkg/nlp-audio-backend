@@ -1,0 +1,123 @@
+{
+  "transcripts": [
+    {
+      "confidence": -90.8945541381836,
+      "date": "2021-06-21",
+      "time": "12.00",
+      "filename": "bd_95_5-2021-06-21_T12.00.01.mp3030.wav",
+      "radio_station": "bd_95_5",
+      "words": [
+        {
+          "word": "tubayita",
+          "start_time": 0.12,
+          "duration": 0.36
+        },
+        {
+          "word": "ku",
+          "start_time": 0.52,
+          "duration": 0.08
+        },
+        {
+          "word": "kisaawe",
+          "start_time": 0.62,
+          "duration": 0.32
+        },
+        {
+          "word": "kyenyonyi",
+          "start_time": 1.0,
+          "duration": 0.4
+        },
+        {
+          "word": "entebe",
+          "start_time": 1.44,
+          "duration": 0.36
+        },
+        {
+          "word": "bongedde",
+          "start_time": 1.88,
+          "duration": 0.46
+        },
+        {
+          "word": "okusereba",
+          "start_time": 2.36,
+          "duration": 0.86
+        },
+        {
+          "word": "era",
+          "start_time": 3.34,
+          "duration": 0.12
+        },
+        {
+          "word": "nga",
+          "start_time": 3.5,
+          "duration": 0.08
+        },
+        {
+          "word": "kino",
+          "start_time": 3.62,
+          "duration": 0.16
+        },
+        {
+          "word": "kivudde",
+          "start_time": 3.82,
+          "duration": 0.34
+        },
+        {
+          "word": "ku",
+          "start_time": 4.18,
+          "duration": 0.08
+        },
+        {
+          "word": "kirwadde",
+          "start_time": 4.3,
+          "duration": 0.28
+        },
+        {
+          "word": "kya",
+          "start_time": 4.62,
+          "duration": 0.16
+        },
+        {
+          "word": "covid",
+          "start_time": 4.82,
+          "duration": 0.76
+        },
+        {
+          "word": "nineteen",
+          "start_time": 5.64,
+          "duration": 1.32
+        },
+        {
+          "word": "gye",
+          "start_time": 7.0,
+          "duration": 0.14
+        },
+        {
+          "word": "buvuddeko",
+          "start_time": 7.16,
+          "duration": 0.66
+        },
+        {
+          "word": "ku",
+          "start_time": 7.88,
+          "duration": 0.08
+        },
+        {
+          "word": "ntandikwa",
+          "start_time": 8.0,
+          "duration": 0.32
+        },
+        {
+          "word": "y'omwaka",
+          "start_time": 8.4,
+          "duration": 0.52
+        },
+        {
+          "word": "guno",
+          "start_time": 8.94,
+          "duration": 0.86
+        }
+      ]
+    }
+  ]
+}

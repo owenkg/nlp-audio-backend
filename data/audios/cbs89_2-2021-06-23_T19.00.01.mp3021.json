@@ -1,0 +1,123 @@
+{
+  "transcripts": [
+    {
+      "confidence": -200.67739868164062,
+      "date": "2021-06-23",
+      "time": "19.00",
+      "filename": "cbs89_2-2021-06-23_T19.00.01.mp3021.wav",
+      "radio_station": "cbs89_2",
+      "words": [
+        {
+          "word": "era",
+          "start_time": 0.2,
+          "duration": 0.18
+        },
+        {
+          "word": "beewale",
+          "start_time": 0.4,
+          "duration": 0.3
+        },
+        {
+          "word": "obwa",
+          "start_time": 0.8,
+          "duration": 0.26
+        },
+        {
+          "word": "obwa",
+          "start_time": 1.36,
+          "duration": 0.3
+        },
+        {
+          "word": "nantagambwako",
+          "start_time": 1.74,
+          "duration": 1.18
+        },
+        {
+          "word": "nti",
+          "start_time": 3.0,
+          "duration": 0.1
+        },
+        {
+          "word": "olwokuba",
+          "start_time": 3.14,
+          "duration": 0.26
+        },
+        {
+          "word": "bava",
+          "start_time": 3.44,
+          "duration": 0.24
+        },
+        {
+          "word": "mu",
+          "start_time": 3.7,
+          "duration": 0.06
+        },
+        {
+          "word": "bibuga",
+          "start_time": 3.78,
+          "duration": 0.62
+        },
+        {
+          "word": "nti",
+          "start_time": 4.42,
+          "duration": 0.1
+        },
+        {
+          "word": "ekyo",
+          "start_time": 4.56,
+          "duration": 0.14
+        },
+        {
+          "word": "bakikomye",
+          "start_time": 4.72,
+          "duration": 0.66
+        },
+        {
+          "word": "obudde",
+          "start_time": 5.46,
+          "duration": 0.26
+        },
+        {
+          "word": "babukozesa",
+          "start_time": 5.84,
+          "duration": 0.62
+        },
+        {
+          "word": "bw'omuggalo",
+          "start_time": 6.52,
+          "duration": 0.82
+        },
+        {
+          "word": "okubaako",
+          "start_time": 7.48,
+          "duration": 0.4
+        },
+        {
+          "word": "bye",
+          "start_time": 7.92,
+          "duration": 0.08
+        },
+        {
+          "word": "bakola",
+          "start_time": 8.02,
+          "duration": 0.3
+        },
+        {
+          "word": "ebivaamu",
+          "start_time": 8.34,
+          "duration": 0.54
+        },
+        {
+          "word": "ko",
+          "start_time": 8.92,
+          "duration": 0.3
+        },
+        {
+          "word": "amakulu",
+          "start_time": 9.3,
+          "duration": 0.42
+        }
+      ]
+    }
+  ]
+}

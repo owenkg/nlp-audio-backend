@@ -1,0 +1,108 @@
+{
+  "transcripts": [
+    {
+      "confidence": -213.6508026123047,
+      "date": "2021-07-15",
+      "time": "20.00",
+      "filename": "cbs88_8-2021-07-15_T20.00.01.mp3340.wav",
+      "radio_station": "cbs88_8",
+      "words": [
+        {
+          "word": "nsobola",
+          "start_time": 0.04,
+          "duration": 0.24
+        },
+        {
+          "word": "okuyingira",
+          "start_time": 0.3,
+          "duration": 0.46
+        },
+        {
+          "word": "mu",
+          "start_time": 0.78,
+          "duration": 0.06
+        },
+        {
+          "word": "bya",
+          "start_time": 0.86,
+          "duration": 0.12
+        },
+        {
+          "word": "kutunda",
+          "start_time": 1.0,
+          "duration": 0.36
+        },
+        {
+          "word": "covid",
+          "start_time": 1.42,
+          "duration": 0.32
+        },
+        {
+          "word": "ku",
+          "start_time": 1.84,
+          "duration": 0.58
+        },
+        {
+          "word": "akakebe",
+          "start_time": 2.6,
+          "duration": 1.76
+        },
+        {
+          "word": "doctor",
+          "start_time": 4.44,
+          "duration": 0.5
+        },
+        {
+          "word": "tutandikira",
+          "start_time": 4.98,
+          "duration": 0.64
+        },
+        {
+          "word": "awo",
+          "start_time": 5.64,
+          "duration": 0.24
+        },
+        {
+          "word": "teyazza",
+          "start_time": 7.18,
+          "duration": 0.66
+        },
+        {
+          "word": "nnyo",
+          "start_time": 7.88,
+          "duration": 0.2
+        },
+        {
+          "word": "abakubye",
+          "start_time": 8.16,
+          "duration": 0.4
+        },
+        {
+          "word": "amasimu",
+          "start_time": 8.6,
+          "duration": 0.36
+        },
+        {
+          "word": "ate",
+          "start_time": 9.0,
+          "duration": 0.1
+        },
+        {
+          "word": "n'okuba",
+          "start_time": 9.12,
+          "duration": 0.32
+        },
+        {
+          "word": "nti",
+          "start_time": 9.48,
+          "duration": 0.1
+        },
+        {
+          "word": "mutuule",
+          "start_time": 9.62,
+          "duration": 0.34
+        }
+      ]
+    }
+  ]
+}

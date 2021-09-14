@@ -1,0 +1,163 @@
+{
+  "transcripts": [
+    {
+      "confidence": -209.10250854492188,
+      "date": "2021-06-21",
+      "time": "20.00",
+      "filename": "bd_95_5-2021-06-21_T20.00.01.mp3121.wav",
+      "radio_station": "bd_95_5",
+      "words": [
+        {
+          "word": "ana",
+          "start_time": 0.22,
+          "duration": 0.18
+        },
+        {
+          "word": "mu",
+          "start_time": 0.42,
+          "duration": 0.06
+        },
+        {
+          "word": "babiri",
+          "start_time": 0.5,
+          "duration": 0.44
+        },
+        {
+          "word": "e",
+          "start_time": 1.08,
+          "duration": 0.08
+        },
+        {
+          "word": "gulu",
+          "start_time": 1.24,
+          "duration": 0.12
+        },
+        {
+          "word": "asatu",
+          "start_time": 1.42,
+          "duration": 0.3
+        },
+        {
+          "word": "mu",
+          "start_time": 1.76,
+          "duration": 0.1
+        },
+        {
+          "word": "mwenda",
+          "start_time": 1.88,
+          "duration": 0.72
+        },
+        {
+          "word": "boda",
+          "start_time": 2.64,
+          "duration": 1.2
+        },
+        {
+          "word": "asatu",
+          "start_time": 3.96,
+          "duration": 0.24
+        },
+        {
+          "word": "mu",
+          "start_time": 4.24,
+          "duration": 0.06
+        },
+        {
+          "word": "bataano",
+          "start_time": 4.32,
+          "duration": 0.52
+        },
+        {
+          "word": "bugiri",
+          "start_time": 4.9,
+          "duration": 0.36
+        },
+        {
+          "word": "asatu",
+          "start_time": 5.42,
+          "duration": 0.26
+        },
+        {
+          "word": "mu",
+          "start_time": 5.72,
+          "duration": 0.12
+        },
+        {
+          "word": "mukaaga",
+          "start_time": 5.86,
+          "duration": 0.2
+        },
+        {
+          "word": "luwera",
+          "start_time": 6.1,
+          "duration": 0.26
+        },
+        {
+          "word": "abiri",
+          "start_time": 6.4,
+          "duration": 0.16
+        },
+        {
+          "word": "mu",
+          "start_time": 6.58,
+          "duration": 0.06
+        },
+        {
+          "word": "munaana",
+          "start_time": 6.66,
+          "duration": 0.66
+        },
+        {
+          "word": "oluwaabi",
+          "start_time": 7.5,
+          "duration": 0.38
+        },
+        {
+          "word": "mu",
+          "start_time": 7.9,
+          "duration": 0.06
+        },
+        {
+          "word": "mwenda",
+          "start_time": 7.98,
+          "duration": 0.28
+        },
+        {
+          "word": "kiryandonga",
+          "start_time": 8.32,
+          "duration": 0.54
+        },
+        {
+          "word": "abiri",
+          "start_time": 8.88,
+          "duration": 0.18
+        },
+        {
+          "word": "mu",
+          "start_time": 9.08,
+          "duration": 0.06
+        },
+        {
+          "word": "bana",
+          "start_time": 9.16,
+          "duration": 0.24
+        },
+        {
+          "word": "ne",
+          "start_time": 9.44,
+          "duration": 0.1
+        },
+        {
+          "word": "babiri",
+          "start_time": 9.58,
+          "duration": 0.28
+        },
+        {
+          "word": "mu",
+          "start_time": 9.88,
+          "duration": 0.04
+        }
+      ]
+    }
+  ]
+}
