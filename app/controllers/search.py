@@ -28,8 +28,6 @@ class TagSearchView(Resource):
 
         collection = []
 
-
-
         results = data["tag_name"]
 
         if (type(results) is list):
@@ -73,7 +71,7 @@ class TagSearchView(Resource):
             name = data["tag_name"]
 
             #tagschema = TagInSchema()
-
+            all_data = dict(Tag = "", Audios=[], Start_time=[])
 
 
             for root, dir, file in os.walk("."):
@@ -89,6 +87,7 @@ class TagSearchView(Resource):
                         #print(word['word'])
                         if word['word'] == name:
                             #print(f"Word: { word['word'] }, Audio: { filename }, Start Time: { word['start_time']}")
+                            all_data["Tag"] = word['word']
                             all_data["Audios"].append(filename)
                             all_data["Start_time"].append(word['start_time'])
                         else:
@@ -162,7 +161,8 @@ class TopicSearchView(Resource):
                     for word in words:
                         #print(word['word'])
                         if word['word'] == name:
-                            print(f"Word: { word['word'] }, Audio: { filename }, Start Time: { word['start_time']}")
+                            #print(f"Word: { word['word'] }, Audio: { filename }, Start Time: { word['start_time']}")
+                            all_data["Tag"] = word['word']
                             all_data["Audios"].append(filename)
                             all_data["Start_time"].append(word['start_time'])
                         else:
