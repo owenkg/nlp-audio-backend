@@ -32,17 +32,14 @@ class TagSearchView(Resource):
 
         if (type(results) is list):
             # check whether tag is passed as one string or array
-            all_data = dict(Tag = "", Audios=[], Start_time=[])
-
             for item in results:
+
+                all_data = dict(Tag = "", Audios=[], Start_time=[])
 
                 name = item
 
-
-                #print(name)
                 for root, dir, file in os.walk("."):
                     for filename in file:
-                        #print(filename)
 
                         with open(filename, 'r') as infile:
                              file_data = json.loads(infile.read())
@@ -50,16 +47,16 @@ class TagSearchView(Resource):
                         words = file_data['transcripts'][0]['words']
 
                         for word in words:
-                            #print(word['word'])
+
                             if word['word'] == name:
-                                #print(f"Word: { word['word'] }, Audio: { filename }, Start Time: { word['start_time']}")
+
                                 all_data["Tag"] = word['word']
                                 all_data["Audios"].append(filename)
                                 all_data["Start_time"].append(word['start_time'])
                             else:
                                 continue
 
-                    collection.append(all_data)
+                collection.append(dict(Tag=all_data['Tag'],Audios=all_data['Audios'],Start_time=all_data['Start_time']))
 
             if (len(collection) < 1):
                 return dict(status="fail", message=f"no audios with {results} "), 404
@@ -70,13 +67,12 @@ class TagSearchView(Resource):
             #print("its not a list")
             name = data["tag_name"]
 
-            #tagschema = TagInSchema()
             all_data = dict(Tag = "", Audios=[], Start_time=[])
 
+            all_data['Tag'] = name
 
             for root, dir, file in os.walk("."):
                 for filename in file:
-                    print(filename)
 
                     with open(filename, 'r') as infile:
                          file_data = json.loads(infile.read())
@@ -84,19 +80,13 @@ class TagSearchView(Resource):
                     words = file_data['transcripts'][0]['words']
 
                     for word in words:
-                        #print(word['word'])
+
                         if word['word'] == name:
-                            #print(f"Word: { word['word'] }, Audio: { filename }, Start Time: { word['start_time']}")
-                            all_data["Tag"] = word['word']
+
                             all_data["Audios"].append(filename)
                             all_data["Start_time"].append(word['start_time'])
                         else:
                             continue
-
-            #tag = Tag.find_first(tag_name=name)
-
-            #if not tag:
-            #    return dict(status="fail", message=f"Tag with name {name} does not exist!"), 404
 
             if len(all_data['Audios']) < 1:
                 return dict(status="fail", message=f"no audios with {name}"), 404
@@ -105,41 +95,47 @@ class TagSearchView(Resource):
 
 class TopicSearchView(Resource):
 
+    os.chdir(os.getcwd()+"/data/topics")
+
     # searches for particular topic(s) and returns all audios attached to it
     def post(self):
+
         data = request.get_json()
+
         results = data["topic_name"]
+
+        collection = []
 
         if (type(results) is list):
             # check whether tag is passed as one string or array
-            collection = []
-
             for item in results:
+
+                all_data = dict(Topic = "", Audios=[], Start_time=[])
 
                 name = item
 
                 for root, dir, file in os.walk("."):
                     for filename in file:
-                        #print(filename)
 
                         with open(filename, 'r') as infile:
-                             data = json.loads(infile.read())
+                             file_data = json.loads(infile.read())
 
-                        words = data['transcripts'][0]['words']
+                        words = file_data['transcripts'][0]['words']
 
                         for word in words:
-                            #print(word['word'])
+
                             if word['word'] == name:
-                                #print(f"Word: { word['word'] }, Audio: { filename }, Start Time: { word['start_time']}")
+
+                                all_data["Topic"] = word['word']
                                 all_data["Audios"].append(filename)
                                 all_data["Start_time"].append(word['start_time'])
                             else:
                                 continue
 
-                collection.append(all_data)
+                collection.append(dict(Topic=all_data['Topic'],Audios=all_data['Audios'],Start_time=all_data['Start_time']))
 
             if (len(collection) < 1):
-                return dict(status="fail", message=f"no under topics {results} "), 404
+                return dict(status="fail", message=f"no audios with {results} "), 404
             else:
                 return dict(status='success', data=collection), 200
 
@@ -147,31 +143,26 @@ class TopicSearchView(Resource):
             #print("its not a list")
             name = data["topic_name"]
 
-            #tagschema = TagInSchema()
+            all_data = dict(Topic = "", Audios=[], Start_time=[])
+
+            all_data['Topic'] = name
 
             for root, dir, file in os.walk("."):
                 for filename in file:
-                    #print(filename)
 
                     with open(filename, 'r') as infile:
-                         data = json.loads(infile.read())
+                         file_data = json.loads(infile.read())
 
-                    words = data['transcripts'][0]['words']
+                    words = file_data['transcripts'][0]['words']
 
                     for word in words:
-                        #print(word['word'])
+
                         if word['word'] == name:
-                            #print(f"Word: { word['word'] }, Audio: { filename }, Start Time: { word['start_time']}")
-                            all_data["Tag"] = word['word']
+
                             all_data["Audios"].append(filename)
                             all_data["Start_time"].append(word['start_time'])
                         else:
                             continue
-
-            #tag = Tag.find_first(tag_name=name)
-
-            #if not tag:
-            #    return dict(status="fail", message=f"Tag with name {name} does not exist!"), 404
 
             if len(all_data['Audios']) < 1:
                 return dict(status="fail", message=f"no audios with {name}"), 404
