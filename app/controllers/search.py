@@ -95,7 +95,7 @@ class TagSearchView(Resource):
 
 class TopicSearchView(Resource):
 
-    os.chdir('../topics')
+    #os.chdir('../topics')
 
     # searches for particular topic(s) and returns all audios attached to it
     def post(self):
