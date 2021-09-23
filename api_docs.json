@@ -143,13 +143,22 @@
       "post": {
         "tags": ["audios"],
         "summary": "adds new audio",
-        "consumes": ["application/json"],
+        "consumes": ["multipart/form-data"],
         "produces": ["application/json"],
         "parameters": [
           {
-            "in": "body",
-            "name": "Audio params",
+            "in": "formData",
+            "name": "file",
+            "type": "file",
             "required": true,
+            "description": "link to audio file"
+          },
+          {
+            "in": "formData",
+            "name": "url",
+            "type": "string",
+            "required": true,
+            "description": "link to audio file",
             "schema": {
               "$ref": "#/definitions/audio"
             }
@@ -465,13 +474,9 @@
     },
     "audio": {
       "type": "object",
-      "required": ["audio_name", "audio_url"],
+      "required": ["url"],
       "properties": {
-        "audio_name": {
-          "type": "string",
-          "example": "test.mp3"
-        },
-        "audio_url": {
+        "url": {
           "type": "string",
           "example": "www.storagelocation.com/test.mp3"
         }

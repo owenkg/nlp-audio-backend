@@ -20,10 +20,10 @@ class Base:
     # email
     #MAIL_DEFAULT_SENDER = os.getenv("APP_MAIL_DEFAULT_SENDER")
 
-    #  Image File upload
+    #  JSON File upload
     MAX_CONTENT_LENGTH = 16 * 1024 * 1024
-    UPLOAD_FOLDER = join(dirname(realpath(__file__)), '../public/pictures')
-    ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg', 'gif'}
+    UPLOAD_FOLDER = join(dirname(realpath(__file__)), '..//nlp_data/data//')
+    ALLOWED_EXTENSIONS = {'json'}
 
 
 
