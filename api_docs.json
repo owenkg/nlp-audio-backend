@@ -151,7 +151,7 @@
             "name": "file",
             "type": "file",
             "required": true,
-            "description": "link to audio file"
+            "description": "audio file metadata"
           },
           {
             "in": "formData",

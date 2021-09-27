@@ -79,4 +79,4 @@ class AudioView(Resource):
 
                     collection.append(data)
 
-        return dict(status="succes", data=collection), 200
+        return dict(status="success", data=collection), 200
