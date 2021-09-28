@@ -39,7 +39,10 @@ class TagSearchView(Resource):
 
                             for word in words:
                                 if word['word'] == name:
-                                    all_data['Audios'].append(data)
+                                    if data not in all_data['Audios']:
+                                        all_data['Audios'].append(data)
+                                    else:
+                                        continue
                                 else:
                                     continue
                 collection.append(all_data)
@@ -73,7 +76,10 @@ class TagSearchView(Resource):
 
                         for word in words:
                             if word['word'] == name:
-                                all_data['Audios'].append(data)
+                                if data not in all_data['Audios']:
+                                    all_data['Audios'].append(data)
+                                else:
+                                    continue
                             else:
                                 continue
 
