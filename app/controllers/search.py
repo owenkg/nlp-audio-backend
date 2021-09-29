@@ -12,6 +12,8 @@ class TagSearchView(Resource):
 
         collection = []
 
+        filtered_audios = []
+
         results = data["tag_name"]
 
         if (type(results) is list):
@@ -21,6 +23,8 @@ class TagSearchView(Resource):
                 all_data = dict(Tag="", Audios=[])
 
                 name = item
+
+                all_data['Tag'] = name
 
                 for root, dir, file in os.walk(current_app.config['UPLOAD_FOLDER']):
                     for filename in file:
@@ -46,10 +50,22 @@ class TagSearchView(Resource):
                                 else:
                                     continue
                 collection.append(all_data)
-            if (len(collection) < 1):
+
+            #removing duplicates
+            for group in collection:
+                """ all_audios.append(group['Audios']) """
+                for audio in group['Audios']:
+                    if audio not in filtered_audios:
+                        filtered_audios.append(audio)
+                    else:
+                        continue
+            """ print(filtered_audios) """
+            print(len(filtered_audios))
+
+            if (len(filtered_audios) < 1):
                 return dict(status="fail", message=f"no audios with {results} "), 404
             else:
-                return dict(status='success', data=collection), 200
+                return dict(status='success', data=filtered_audios), 200
 
         else:
             #print("its not a list")
